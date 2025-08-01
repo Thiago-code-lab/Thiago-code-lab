@@ -1,6 +1,6 @@
 ## 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
 
 <p align="left">
   😉 Meu nome é <strong>Thiago Cardoso</strong> e sou estagiário em <strong>DevSecOps</strong> na <strong>Compass UOL</strong>, como parte do programa <strong>AWS Scholar</strong>.
