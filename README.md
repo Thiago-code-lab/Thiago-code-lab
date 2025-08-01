@@ -38,28 +38,36 @@
 - Git & GitHub • Visual Studio Code • Insomnia/Postman
 - WSL2 • Ubuntu CLI • VS Code Remote Containers
 
-
-## 🚀 Minhas Skills
+---
 
 ### 👨‍💻 Linguagens e Frameworks
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-3521655-2945099.png" alt="Python"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html5-2038871-1720089.png" alt="HTML5"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="CSS3"/></code>
+<p align="left">
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-3521655-2945099.png" alt="Python"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html5-2038871-1720089.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="CSS3"/></code>
+</p>
 
 ### 🗄️ Bancos de Dados
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-27-226015.png" alt="SQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="MongoDB"/></code>
+<p align="left">
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-27-226015.png" alt="SQL"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="PostgreSQL"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="MongoDB"/></code>
+</p>
 
 ### ☁️ Cloud e Infraestrutura
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" alt="AWS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-13-1175230.png" alt="Docker"/></code>
+<p align="left">
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" alt="AWS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-13-1175230.png" alt="Docker"/></code>
+</p>
 
 ### 🛠️ Ferramentas e Outros
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/git-17-1175218.png" alt="Git"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-actions-3521356-2944720.png" alt="GitHub Actions"/></code>
+<p align="left">
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/git-17-1175218.png" alt="Git"/></code>
+  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-actions-3521356-2944720.png" alt="GitHub Actions"/></code>
+</p>
+
 ---
 
 ### 📂 Projetos em destaque
