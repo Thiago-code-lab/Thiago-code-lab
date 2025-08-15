@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🎓 Atualmente curso <strong>Big Data para Negócios</strong> na FATEC, com foco em Engenharia de Dados, Cloud e Segurança da Informação.
+  🎓 Atualmente curso <strong>Big Data para Negócios</strong> na FATEC, com foco em Engenharia de Dados, Cloud e Estatística.
 </p>
 
 <p align="left">
