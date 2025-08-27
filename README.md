@@ -73,8 +73,6 @@
 ### 📂 Projetos em destaque
 
 - 🔒 **Projeto DevSecOps: Pipeline CI/CD + Containerização Segura**
-- 🧪 **Automação de testes com Pytest e integração com GitHub Actions**
-- ☁️ **Ambientes em nuvem simulados com AWS CLI + Docker**
 - 📊 **Análises de dados com Python + Pandas (em progresso)**
 
 ---
