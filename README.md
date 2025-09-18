@@ -277,41 +277,6 @@ timeline
 
 ---
 
-## 💡 Filosofia Jedi do Desenvolvimento
-
-<div align="center">
-
-> *"O medo é o caminho para o lado sombrio. O medo leva à raiva, a raiva leva ao ódio, o ódio leva ao sofrimento."*
-> 
-> **Por isso, sempre use metodologias ágeis e código limpo! 😄**
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Sabedoria Jedi"/>
-
-</div>
-
----
-
-## 🌟 Códigos de Honra Jedi
-
-<div align="center">
-
-```javascript
-// Juramento do Desenvolvedor Jedi
-const codigoJedi = {
-    disciplina: "Escrever código limpo e testável",
-    paciencia: "Debuggar sem ceder ao lado sombrio", 
-    sabedoria: "Documentar tudo para os futuros Padawans",
-    coragem: "Refatorar código legado sem medo",
-    serenidade: "Aceitar que nem todo bug pode ser resolvido hoje"
-};
-
-console.log("Que a Força esteja com nosso código! 🌟");
-```
-
-</div>
-
----
-
 <div align="center">
 
 ## 🌟 **"Esta é apenas uma galáxia muito, muito distante... O código continua!"**
