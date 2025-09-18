@@ -1,7 +1,7 @@
 <div align="center">
 
-🌟 Bem-vindos à Galáxia, Jovem Padawan!
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Eu+sou+Thiago+Cardoso%2C+Desenvolvedor+Jedi!;DevSecOps+%7C+Arquiteto+Cloud+%7C+Mestre+de+Dados;Que+o+C%C3%B3digo+esteja+com+voc%C3%AA!+%E2%9A%A1" alt="Typing SVG" />
+## 🌟 Bem-vindos à Galáxia, Jovem Padawan!
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Eu+sou+Thiago+Cardoso%2C+DevSecOps+Jedi!;DevSecOps+%7C+Arquiteto+Cloud+%7C+Mestre+de+Dados;Que+o+C%C3%B3digo+esteja+com+voc%C3%AA!+%E2%9A%A1" alt="Typing SVG" />
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" alt="Yoda programando" align="right"/>
 </div>
 
