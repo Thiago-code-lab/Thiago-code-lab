@@ -1,11 +1,12 @@
 <div align="center">
 
-## 🌟 Bem-vindos à Galáxia, Jovem Padawan!
+# 🌟 Bem-vindos à Galáxia, Jovem Padawan!
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Eu+sou+Thiago+Cardoso%2C+DevSecOps+Jedi!;DevSecOps+%7C+Arquiteto+Cloud+%7C+Mestre+de+Dados;Que+o+C%C3%B3digo+esteja+com+voc%C3%AA!+%E2%9A%A1" alt="Typing SVG" />
+
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" alt="Yoda programando" align="right"/>
+
 </div>
-
-
 
 <p align="left">
   😉 Meu nome é <strong>Thiago Cardoso</strong> e sou estagiário em <strong>DevSecOps</strong> na <strong>Compass UOL</strong>, como parte do programa <strong>AWS Scholar</strong>.
@@ -134,7 +135,7 @@ echo "Ferramentas que uso diariamente: ${tools[@]}"
 
 | 🔒 **DevSecOps Pipeline** | 📊 **Data Analytics** | ☁️ **Cloud Infrastructure** |
 |:---:|:---:|:---:|
-| ![DevSecOps](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge) | ![Analytics](https://img.shields.io/badge/Status-Em_Progresso-blue?style=for-the-badge) | ![Cloud](https://img.shields.io/badge/Status-Planejado-red?style=for-the-badge) |
+| ![DevSecOps](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge) | ![Analytics](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge) | ![Cloud](https://img.shields.io/badge/Status-Desenvolvimento-red?style=for-the-badge) |
 | CI/CD + Docker + Security | Python + Pandas + Viz | AWS + Terraform + IaC |
 
 </div>
@@ -187,7 +188,7 @@ timeline
     2024 Q2 : ETEC
              : Marketing
 
-    2024 Q1 : FATEC
+    2024 Q2 : FATEC
              : Big Data para Negócios
              : Foco em Eng. Dados
   
@@ -209,7 +210,7 @@ timeline
 <tr>
 <td width="33%">
 
-### 🎯 **Q1 2025**
+### 🎯 **Q2 2025**
 - [ ] AWS Cloud Practitioner
 - [ ] Finalizar projeto DevSecOps
 - [ ] 5 projetos Python/Data
@@ -218,7 +219,7 @@ timeline
 </td>
 <td width="33%">
 
-### 🚀 **Q2 2026**
+### 🚀 **Q1-Q2 2026**
 - [ ] AWS Solutions Architect
 - [ ] Kubernetes certification
 - [ ] Pipeline MLOps
@@ -227,7 +228,7 @@ timeline
 </td>
 <td width="34%">
 
-### 💡 **Q3-Q4 2027**
+### 💡 **Q1-Q2 2027**
 - [ ] Engenheiro de Dados Jr
 - [ ] Especialização Cloud
 - [ ] Mentoria técnica
@@ -276,12 +277,36 @@ timeline
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
+## 💡 Filosofia Jedi do Desenvolvimento
 
 <div align="center">
 
+> *"O medo é o caminho para o lado sombrio. O medo leva à raiva, a raiva leva ao ódio, o ódio leva ao sofrimento."*
+> 
+> **Por isso, sempre use metodologias ágeis e código limpo! 😄**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Sabedoria Jedi"/>
+
+</div>
+
+---
+
+## 🌟 Códigos de Honra Jedi
+
+<div align="center">
+
+```javascript
+// Juramento do Desenvolvedor Jedi
+const codigoJedi = {
+    disciplina: "Escrever código limpo e testável",
+    paciencia: "Debuggar sem ceder ao lado sombrio", 
+    sabedoria: "Documentar tudo para os futuros Padawans",
+    coragem: "Refatorar código legado sem medo",
+    serenidade: "Aceitar que nem todo bug pode ser resolvido hoje"
+};
+
+console.log("Que a Força esteja com nosso código! 🌟");
+```
 
 </div>
 
@@ -289,14 +314,16 @@ timeline
 
 <div align="center">
 
-## 🚀 **"Em constante evolução... Este é apenas o começo!"**
+## 🌟 **"Esta é apenas uma galáxia muito, muito distante... O código continua!"**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!+%E2%AD%90;Happy+Coding!+%F0%9F%9A%80;Vamos+construir+o+futuro+juntos!+%F0%9F%8C%9F" alt="Closing Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita%2C+jovem+Padawan!+%E2%AD%90;Que+a+For%C3%A7a+esteja+com+voc%C3%AA!+%E2%9A%A1;Vamos+construir+a+Nova+Rep%C3%BAblica+juntos!+%F0%9F%8C%9F" alt="Mensagem Final" />
 
-### 📫 **Sempre aberto para colaborações, ideias e networking!**
+### 📡 **Sempre aberto para colaborações, ideias e networking!**
+
+*"Lembre-se, a Força estará com você... sempre." - Obi-Wan Kenobi*
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
 </div>
