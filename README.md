@@ -16,6 +16,22 @@
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=radical&locale=pt-br)
+
+</div>
+
+<div align="center">
+  
+![Sequência de commits](https://streak-stats.demolab.com/?user=Thiago-code-lab&theme=radical&locale=pt_BR)
+
+</div>
+
+---
+
 ### 🧠 Stack de Conhecimento
 
 **Linguagens e Scripting:**
@@ -41,73 +57,143 @@
 ---
 
 ### 👨‍💻 Linguagens e Frameworks
-<p align="left">
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-3521655-2945099.png" alt="Python"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html5-2038871-1720089.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="CSS3"/></code>
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash/Shell"/>
 </p>
 
 ### 🗄️ Bancos de Dados
-<p align="left">
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-27-226015.png" alt="SQL"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="PostgreSQL"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="MongoDB"/></code>
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite"/>
 </p>
 
 ### ☁️ Cloud e Infraestrutura
-<p align="left">
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png" alt="AWS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/docker-13-1175230.png" alt="Docker"/></code>
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="Amazon Web Services"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud Platform"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform"/>
 </p>
 
-### 🛠️ Ferramentas e Outros
-<p align="left">
-  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/git-17-1175218.png" alt="Git"/></code>
-  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-actions-3521356-2944720.png" alt="GitHub Actions"/></code>
+### 🛠️ Ferramentas e DevOps
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code"/>
 </p>
+
+---
+
+### 🏆 Conquistas do GitHub
+
+<div align="center">
+  
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+### 📈 Gráfico de Contribuições
+
+<div align="center">
+  
+![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true)
+
+</div>
 
 ---
 
 ### 📂 Projetos em destaque
 
 - 🔒 **Projeto DevSecOps: Pipeline CI/CD + Containerização Segura**
-- 📊 **Análises de dados com Python + Pandas (em progresso)**
+  - Implementação de pipeline completo com Docker, GitHub Actions e ferramentas de segurança
+- 📊 **Análises de dados com Python + Pandas** *(em progresso)*
+  - Projetos de análise exploratória e visualização de dados
+- ☁️ **Infraestrutura AWS com Terraform** *(planejado)*
+  - Automação de infraestrutura na nuvem usando IaC
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-<p align="left">
+<p align="center">
   <a href="mailto:analyticsdev.thiago@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="https://api.whatsapp.com/send?phone=5511952069862" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
+---
+
+### 📊 Estatísticas Detalhadas
+
+<div align="center">
+  
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=Thiago-code-lab&color=ff69b4&style=flat-square&label=Visitantes)
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+**🎯 Foco Atual:**
+- DevSecOps & Cloud Computing
+- Engenharia de Dados
+- Automação e CI/CD
+- Segurança em Aplicações
+
+</td>
+<td>
+
+**📚 Estudando:**
+- AWS Cloud Practitioner
+- Python para Data Science
+- Kubernetes & Microservices
+- MLOps & DataOps
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📌 Sobre mim
 
-- 💻 Disciplina e Curiosidade é meu lema
-- 📈 Foco em se tornar **Engenheiro de Dados / Cloud** até os 23 anos
-- 📚 Estudando para certificações: **AWS Cloud Practitioner**, **DevOps Essentials**, **Python para Dados**
-- 📂 Veja meus projetos abaixo e fique à vontade para clonar, contribuir ou dar sugestões!
+- 💻 **"Disciplina e Curiosidade"** é meu lema
+- 🎯 **Meta:** Tornar-me **Engenheiro de Dados/Cloud** até os 23 anos
+- 🌱 **Sempre aprendendo:** Novas tecnologias e melhores práticas
+- 📈 **Crescimento contínuo:** Focado em projetos que agregam valor real
+- 🤝 **Colaboração:** Aberto a contribuir em projetos open source
+- 📂 **Portfólio ativo:** Veja meus projetos e fique à vontade para contribuir!
 
 ---
 
-🔐 *Este é apenas o começo. Em constante evolução...*
+### 💡 Filosofia de Desenvolvimento
 
+> *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software ao aprender uma lista do que fazer e do que não fazer. Profissionalismo e artesanato vêm dos valores e disciplina."*
 
+---
 
-
-
+<div align="center">
+  
+  **🔐 Este é apenas o começo. Em constante evolução...**
+  
+  ⭐ **Obrigado pela visita! Se gostou do meu trabalho, deixe uma estrela nos repositórios!** ⭐
+  
+  **🚀 Happy Coding! 🚀**
+  
+</div>
