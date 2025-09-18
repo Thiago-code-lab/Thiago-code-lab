@@ -1,12 +1,11 @@
 <div align="center">
 
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Thiago+Cardoso!;DevSecOps+%7C+Cloud+Engineer+%7C+Data+Engineer;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80" alt="Typing SVG" />
-
+🌟 Bem-vindos à Galáxia, Jovem Padawan!
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Eu+sou+Thiago+Cardoso%2C+Desenvolvedor+Jedi!;DevSecOps+%7C+Arquiteto+Cloud+%7C+Mestre+de+Dados;Que+o+C%C3%B3digo+esteja+com+voc%C3%AA!+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" alt="Yoda programando" align="right"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
+
 
 <p align="left">
   😉 Meu nome é <strong>Thiago Cardoso</strong> e sou estagiário em <strong>DevSecOps</strong> na <strong>Compass UOL</strong>, como parte do programa <strong>AWS Scholar</strong>.
