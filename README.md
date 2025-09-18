@@ -246,7 +246,7 @@ timeline
   
 ![Visualizações](https://komarev.com/ghpvc/?username=Thiago-code-lab&color=ff69b4&style=for-the-badge&label=Visitantes)
 ![Seguidores](https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=blue)
-![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-Crescendo-green?style=for-the-badge)
+![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-12-green?style=for-the-badge)
 
 </div>
 
