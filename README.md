@@ -1,82 +1,59 @@
 <div align="center">
-
-# 🌟 Bem-vindos à Galáxia, Jovem Padawan!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=Eu+sou+Thiago+Cardoso%2C+DevSecOps+Jedi!;DevSecOps+%7C+Arquiteto+Cloud+%7C+Mestre+de+Dados;Que+o+C%C3%B3digo+esteja+com+voc%C3%AA!+%E2%9A%A1" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" alt="Yoda programando" align="right"/>
-
+👋 Olá! Seja bem-vindo ao meu GitHub!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Thiago+Cardoso!;DevSecOps+%7C+Cloud+Engineer+%7C+Data+Engineer;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
 <p align="left">
   😉 Meu nome é <strong>Thiago Cardoso</strong> e sou estagiário em <strong>DevSecOps</strong> na <strong>Compass UOL</strong>, como parte do programa <strong>AWS Scholar</strong>.
 </p>
-
 <p align="left">
   🎓 Atualmente curso <strong>Big Data para Negócios</strong> na FATEC, com foco em Engenharia de Dados, Cloud e Estatística.
 </p>
-
 <p align="left">
   🚀 Apaixonado por tecnologia, estou construindo um portfólio técnico voltado para <strong>Cloud, DevSecOps e Engenharia de Dados</strong>, com projetos práticos, pipelines CI/CD, automações e boas práticas de segurança.
 </p>
-
 <br clear="both"/>
 
----
-
-## 📊 Estatísticas do GitHub
-
+📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thiago-code-lab&theme=radical&locale=pt_BR" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=radical&locale=pt-br"/>
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-code-lab&theme=radical&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
-
-## 🧠 Stack de Conhecimento
-
+🧠 Stack de Conhecimento
 <table align="center">
 <tr>
 <td width="50%">
-
-### 💻 **Linguagens & Scripting**
-```python
-languages = {
+💻 Linguagens & Scripting
+pythonlanguages = {
     "Python": "APIs, automações, data analysis",
     "Bash/Shell": "Scripts de infraestrutura",
     "SQL": "Consultas e análise de dados",
     "JavaScript": "Desenvolvimento web (básico)"
 }
-```
-
-### 🔒 **DevSecOps & Cloud**
-```yaml
-devops_tools:
+🔒 DevSecOps & Cloud
+yamldevops_tools:
   containerization: ["Docker", "Docker Compose"]
   ci_cd: ["GitHub Actions", "Gitea"]
   cloud: ["AWS EC2", "S3", "IAM", "VPC"]
   iac: ["Terraform"]
   security: ["Trivy", "Bandit", "Safety"]
   os: ["Linux Ubuntu", "WSL2"]
-```
-
 </td>
 <td width="50%">
-
-### 🗄️ **Bancos de Dados**
-```sql
-SELECT * FROM databases WHERE knowledge_level > 'intermediate';
+🗄️ Bancos de Dados
+sqlSELECT * FROM databases WHERE knowledge_level > 'intermediate';
 -- PostgreSQL ✅
 -- SQLite ✅  
 -- MongoDB (learning) 🔄
-```
-
-### 🛠️ **Ferramentas**
-```bash
-#!/bin/bash
+🛠️ Ferramentas
+bash#!/bin/bash
 tools=(
     "Git & GitHub"
     "VS Code + Extensions"
@@ -85,120 +62,90 @@ tools=(
     "Docker Containers"
 )
 echo "Ferramentas que uso diariamente: ${tools[@]}"
-```
-
 </td>
 </tr>
 </table>
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
+🚀 Tecnologias & Ferramentas
 <div align="center">
-
-### 👨‍💻 Linguagens
+👨‍💻 Linguagens
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,sql" />
 </p>
-
-### 🗄️ Bancos de Dados  
+🗄️ Bancos de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
 </p>
-
-### ☁️ Cloud & Infraestrutura
+☁️ Cloud & Infraestrutura
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,kubernetes" />
 </p>
-
-### 🛠️ Ferramentas & DevOps
+🛠️ Ferramentas & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
 </p>
-
 </div>
 
----
-
-## 🏆 Conquistas & Reconhecimentos
-
+🏆 Conquistas & Reconhecimentos
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </div>
 
----
-
-## 📂 Projetos em Destaque
-
+📂 Projetos em Destaque
 <div align="center">
-
-| 🔒 **DevSecOps Pipeline** | 📊 **Data Analytics** | ☁️ **Cloud Infrastructure** |
-|:---:|:---:|:---:|
-| ![DevSecOps](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge) | ![Analytics](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge) | ![Cloud](https://img.shields.io/badge/Status-Desenvolvimento-red?style=for-the-badge) |
-| CI/CD + Docker + Security | Python + Pandas + Viz | AWS + Terraform + IaC |
-
+🔒 DevSecOps Pipeline📊 Data Analytics☁️ Cloud InfrastructureShow ImageShow ImageShow ImageCI/CD + Docker + SecurityPython + Pandas + VizAWS + Terraform + IaC
 </div>
-
-### 🎯 **Detalhes dos Projetos:**
-
+🎯 Detalhes dos Projetos:
 <details>
 <summary>🔒 <b>Projeto DevSecOps: Pipeline CI/CD Completo</b></summary>
 
-- **Objetivo**: Implementar pipeline de segurança desde o desenvolvimento até produção
-- **Tecnologias**: Docker, GitHub Actions, Trivy, Bandit, Safety
-- **Features**: 
-  - ✅ Análise estática de código
-  - ✅ Escaneamento de vulnerabilidades
-  - ✅ Containerização segura
-  - 🔄 Deploy automatizado (em desenvolvimento)
+Objetivo: Implementar pipeline de segurança desde o desenvolvimento até produção
+Tecnologias: Docker, GitHub Actions, Trivy, Bandit, Safety
+Features:
+
+✅ Análise estática de código
+✅ Escaneamento de vulnerabilidades
+✅ Containerização segura
+🔄 Deploy automatizado (em desenvolvimento)
+
+
 
 </details>
-
 <details>
 <summary>📊 <b>Análise de Dados com Python</b></summary>
 
-- **Objetivo**: Projetos práticos de análise exploratória e visualização
-- **Tecnologias**: Python, Pandas, Matplotlib, Seaborn, Jupyter
-- **Datasets**: Dados financeiros, vendas, marketing digital
-- **Status**: 70% concluído
+Objetivo: Projetos práticos de análise exploratória e visualização
+Tecnologias: Python, Pandas, Matplotlib, Seaborn, Jupyter
+Datasets: Dados financeiros, vendas, marketing digital
+Status: 70% concluído
 
 </details>
-
 <details>
 <summary>☁️ <b>Infraestrutura AWS com Terraform</b></summary>
 
-- **Objetivo**: Automatizar infraestrutura na nuvem usando IaC
-- **Escopo**: EC2, S3, VPC, RDS, Load Balancer
-- **Foco**: Segurança, escalabilidade e custo-benefício
-- **Status**: Em planejamento para Q1 2025
+Objetivo: Automatizar infraestrutura na nuvem usando IaC
+Escopo: EC2, S3, VPC, RDS, Load Balancer
+Foco: Segurança, escalabilidade e custo-benefício
+Status: Em planejamento para Q1 2025
 
 </details>
 
----
-
-## 💼 Experiência Profissional
-
+💼 Experiência Profissional
 <div align="center">
-
 ```mermaid
 timeline
     title Minha Jornada Profissional
+2024 Q3 : Compass UOL
+         : Programa AWS Scholar
+         : DevSecOps Intern
 
-    2024 Q2 : ETEC
-             : Marketing
-
-    2024 Q2 : FATEC
-             : Big Data para Negócios
-             : Foco em Eng. Dados
-  
-    2025 Q2 : Compass UOL
-             : Programa AWS Scholar
-             : DevSecOps Intern
-                 
-    2025 Q2 : Certificações
-             : AWS Cloud Practitioner
-```
+2024 Q4 : FATEC
+         : Big Data para Negócios
+         : Foco em Eng. Dados
+         
+2025 Q1 : Certificações
+         : AWS Cloud Practitioner
+         : DevOps Essentials
 
 </div>
 
@@ -210,7 +157,7 @@ timeline
 <tr>
 <td width="33%">
 
-### 🎯 **Q2 2025**
+### 🎯 **Q1 2025**
 - [ ] AWS Cloud Practitioner
 - [ ] Finalizar projeto DevSecOps
 - [ ] 5 projetos Python/Data
@@ -219,7 +166,7 @@ timeline
 </td>
 <td width="33%">
 
-### 🚀 **Q1-Q2 2026**
+### 🚀 **Q2 2025**
 - [ ] AWS Solutions Architect
 - [ ] Kubernetes certification
 - [ ] Pipeline MLOps
@@ -228,7 +175,7 @@ timeline
 </td>
 <td width="34%">
 
-### 💡 **Q1-Q2 2027**
+### 💡 **Q3-Q4 2025**
 - [ ] Engenheiro de Dados Jr
 - [ ] Especialização Cloud
 - [ ] Mentoria técnica
@@ -246,7 +193,7 @@ timeline
   
 ![Visualizações](https://komarev.com/ghpvc/?username=Thiago-code-lab&color=ff69b4&style=for-the-badge&label=Visitantes)
 ![Seguidores](https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=blue)
-![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-12-green?style=for-the-badge)
+![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-Crescendo-green?style=for-the-badge)
 
 </div>
 
@@ -256,7 +203,7 @@ timeline
 
 | Métrica | Valor | Progresso |
 |:---:|:---:|:---:|
-| **Commits este ano** | 100+ | 📈 |
+| **Commits este ano** | ![Commits](https://img.shields.io/badge/dynamic/json?color=green&label=commits&query=total&url=https://github-readme-stats.vercel.app/api?username=Thiago-code-lab) | 📈 |
 | **Linguagens ativas** | 6+ | 🔥 |
 | **Projetos ativos** | 3 | ⚡ |
 | **Certificações** | 2 (planejadas) | 🎯 |
@@ -277,18 +224,30 @@ timeline
 
 ---
 
+## 💡 Filosofia de Desenvolvimento
+
 <div align="center">
 
-## 🌟 **"Esta é apenas uma galáxia muito, muito distante... O código continua!"**
+> ### *"O código é como poesia: deve ser claro, elegante e resolver problemas reais."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita%2C+jovem+Padawan!+%E2%AD%90;Que+a+For%C3%A7a+esteja+com+voc%C3%AA!+%E2%9A%A1;Vamos+construir+a+Nova+Rep%C3%BAblica+juntos!+%F0%9F%8C%9F" alt="Mensagem Final" />
-
-### 📡 **Sempre aberto para colaborações, ideias e networking!**
-
-*"Lembre-se, a Força estará com você... sempre." - Obi-Wan Kenobi*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling"/>
+
+## 🚀 **"Em constante evolução... Este é apenas o começo!"**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!+%E2%AD%90;Happy+Coding!+%F0%9F%9A%80;Vamos+construir+o+futuro+juntos!+%F0%9F%8C%9F" alt="Closing Message" />
+
+### 📫 **Sempre aberto para colaborações, ideias e networking!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
