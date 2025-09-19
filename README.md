@@ -40,29 +40,25 @@
 <tr>
 <td width="33%">
 
-### 🎯 **Q1 2025**
+### 🎯 **Q2 2025**
 - [ ] AWS Cloud Practitioner
 - [ ] Finalizar projeto DevSecOps
-- [ ] 5 projetos Python/Data
-- [ ] Contribuir OSS
 
 </td>
 <td width="33%">
 
-### 🚀 **Q2 2025**
+### 🚀 **Q1-Q2 2026**
 - [ ] AWS Solutions Architect
 - [ ] Kubernetes certification
-- [ ] Pipeline MLOps
 - [ ] Tech talks/artigos
 
 </td>
 <td width="34%">
 
-### 💡 **Q3-Q4 2025**
+### 💡 **Q1-Q2 2027**
 - [ ] Engenheiro de Dados Jr
 - [ ] Especialização Cloud
 - [ ] Mentoria técnica
-- [ ] Side projects
 
 </td>
 </tr>
