@@ -26,65 +26,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-🧠 Stack de Conhecimento
-<table align="center">
-<tr>
-<td width="50%">
-💻 Linguagens & Scripting
-pythonlanguages = {
-    "Python": "APIs, automações, data analysis",
-    "Bash/Shell": "Scripts de infraestrutura",
-    "SQL": "Consultas e análise de dados",
-    "JavaScript": "Desenvolvimento web (básico)"
-}
-🔒 DevSecOps & Cloud
-yamldevops_tools:
-  containerization: ["Docker", "Docker Compose"]
-  ci_cd: ["GitHub Actions", "Gitea"]
-  cloud: ["AWS EC2", "S3", "IAM", "VPC"]
-  iac: ["Terraform"]
-  security: ["Trivy", "Bandit", "Safety"]
-  os: ["Linux Ubuntu", "WSL2"]
-</td>
-<td width="50%">
-🗄️ Bancos de Dados
-sqlSELECT * FROM databases WHERE knowledge_level > 'intermediate';
--- PostgreSQL ✅
--- SQLite ✅  
--- MongoDB (learning) 🔄
-🛠️ Ferramentas
-bash#!/bin/bash
-tools=(
-    "Git & GitHub"
-    "VS Code + Extensions"
-    "Insomnia/Postman"
-    "Ubuntu CLI"
-    "Docker Containers"
-)
-echo "Ferramentas que uso diariamente: ${tools[@]}"
-</td>
-</tr>
-</table>
-
-🚀 Tecnologias & Ferramentas
-<div align="center">
-👨‍💻 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,sql" />
-</p>
-🗄️ Bancos de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
-</p>
-☁️ Cloud & Infraestrutura
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,kubernetes" />
-</p>
-🛠️ Ferramentas & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu" />
-</p>
-</div>
 
 🏆 Conquistas & Reconhecimentos
 <div align="center">
