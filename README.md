@@ -91,64 +91,6 @@ echo "Ferramentas que uso diariamente: ${tools[@]}"
   <img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </div>
 
-📂 Projetos em Destaque
-<div align="center">
-🔒 DevSecOps Pipeline📊 Data Analytics☁️ Cloud InfrastructureShow ImageShow ImageShow ImageCI/CD + Docker + SecurityPython + Pandas + VizAWS + Terraform + IaC
-</div>
-🎯 Detalhes dos Projetos:
-<details>
-<summary>🔒 <b>Projeto DevSecOps: Pipeline CI/CD Completo</b></summary>
-
-Objetivo: Implementar pipeline de segurança desde o desenvolvimento até produção
-Tecnologias: Docker, GitHub Actions, Trivy, Bandit, Safety
-Features:
-
-✅ Análise estática de código
-✅ Escaneamento de vulnerabilidades
-✅ Containerização segura
-🔄 Deploy automatizado (em desenvolvimento)
-
-
-
-</details>
-<details>
-<summary>📊 <b>Análise de Dados com Python</b></summary>
-
-Objetivo: Projetos práticos de análise exploratória e visualização
-Tecnologias: Python, Pandas, Matplotlib, Seaborn, Jupyter
-Datasets: Dados financeiros, vendas, marketing digital
-Status: 70% concluído
-
-</details>
-<details>
-<summary>☁️ <b>Infraestrutura AWS com Terraform</b></summary>
-
-Objetivo: Automatizar infraestrutura na nuvem usando IaC
-Escopo: EC2, S3, VPC, RDS, Load Balancer
-Foco: Segurança, escalabilidade e custo-benefício
-Status: Em planejamento para Q1 2025
-
-</details>
-
-💼 Experiência Profissional
-<div align="center">
-```mermaid
-timeline
-    title Minha Jornada Profissional
-2024 Q3 : Compass UOL
-         : Programa AWS Scholar
-         : DevSecOps Intern
-
-2024 Q4 : FATEC
-         : Big Data para Negócios
-         : Foco em Eng. Dados
-         
-2025 Q1 : Certificações
-         : AWS Cloud Practitioner
-         : DevOps Essentials
-
-</div>
-
 ---
 
 ## 📈 Metas e Objetivos 2025
@@ -197,19 +139,6 @@ timeline
 
 </div>
 
-### 📊 **Métricas de Desenvolvimento**
-
-<div align="center">
-
-| Métrica | Valor | Progresso |
-|:---:|:---:|:---:|
-| **Commits este ano** | ![Commits](https://img.shields.io/badge/dynamic/json?color=green&label=commits&query=total&url=https://github-readme-stats.vercel.app/api?username=Thiago-code-lab) | 📈 |
-| **Linguagens ativas** | 6+ | 🔥 |
-| **Projetos ativos** | 3 | ⚡ |
-| **Certificações** | 2 (planejadas) | 🎯 |
-
-</div>
-
 ---
 
 ## 🌐 Vamos nos Conectar?
@@ -224,29 +153,15 @@ timeline
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
-
-<div align="center">
-
-> ### *"O código é como poesia: deve ser claro, elegante e resolver problemas reais."*
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
-</div>
-
----
-
 <div align="center">
 
 ## 🚀 **"Em constante evolução... Este é apenas o começo!"**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!+%E2%AD%90;Happy+Coding!+%F0%9F%9A%80;Vamos+construir+o+futuro+juntos!+%F0%9F%8C%9F" alt="Closing Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita+Padawan!;Que+a+Força+esteja+com+você!;Vamos+construir+o+futuro+juntos!" alt="Closing Message" />
 
 ### 📫 **Sempre aberto para colaborações, ideias e networking!**
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
