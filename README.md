@@ -14,13 +14,10 @@
 </p>
 <br clear="both"/>
 
-📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=radical&locale=pt-br"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-code-lab&theme=radical&hide_border=true&locale=pt_BR&hide_title=true" alt="GitHub Streak Stats"/>
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" alt="Contribution Graph"/>
