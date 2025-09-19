@@ -1,6 +1,6 @@
 <div align="center">
 👋 Olá! Seja bem-vindo ao meu GitHub!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Thiago+Cardoso!;DevSecOps+%7C+Cloud+Engineer+%7C+Data+Engineer;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Thiago+Cardoso!;DevSecOps+%7C+Cloud+Architect+%7C+Analista+de+Dados;Muito+a+aprender+você+ainda+tem!" alt="Typing SVG" />
 </div>
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" alt="Obi-Wan programando" align="right"/>
 <p align="left">
