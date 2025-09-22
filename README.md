@@ -15,14 +15,15 @@
 <br clear="both"/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=radical&locale=pt-br"/>
-</div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=7&theme=radical&locale=pt-br&border_radius=10&hide_border=true"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições"/>
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiago-code-lab&theme=radical"/>
+</div>
 
 🏆 Conquistas & Reconhecimentos
 <div align="center">
