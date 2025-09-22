@@ -1,18 +1,53 @@
 <div align="center">
-👋 Olá! Seja bem-vindo ao meu GitHub!
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Thiago+Cardoso!;DevSecOps+%7C+Cloud+Architect+%7C+Analista+de+Dados;Muito+a+aprender+você+ainda+tem!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=140&section=header&text=Seja%20Bem-vindo%20Jovem%20Padawan!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
-<img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" alt="Obi-Wan programando" align="right"/>
-<p align="left">
-  😉 Meu nome é <strong>Thiago Cardoso</strong> e sou estagiário em <strong>DevSecOps</strong> na <strong>Compass UOL</strong>, como parte do programa <strong>AWS Scholar</strong>.
-</p>
-<p align="left">
-  🎓 Atualmente curso <strong>Big Data para Negócios</strong> na FATEC, com foco em Engenharia de Dados, Cloud e Estatística.
-</p>
-<p align="left">
-  🚀 Apaixonado por tecnologia, estou construindo um portfólio técnico voltado para <strong>Cloud, DevSecOps e Engenharia de Dados</strong>, com projetos práticos, pipelines CI/CD, automações e boas práticas de segurança.
-</p>
-<br clear="both"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Thiago+Cardoso!;DevSecOps+%7C+Cloud+Architect+%7C+Analista+de+Dados;Muito+a+aprender+voc%C3%AA+ainda+tem+%F0%9F%9A%80;May+the+Force+be+with+you!+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%">
+
+## 🌟 Sobre Este Jovem Padawan
+
+**😉 Thiago Cardoso** - *Em treinamento Jedi na galáxia da tecnologia*
+
+🎯 **Estagiário DevSecOps** na **Compass UOL** 
+📚 Programa **AWS Scholar** em andamento
+
+🎓 **Estudante de Big Data para Negócios** na FATEC  
+📊 *Especialização*: Engenharia de Dados, Cloud & Estatística
+
+🚀 **Missão Atual**: Construindo um portfólio técnico robusto com:
+- ☁️ **Cloud Computing** (AWS, Azure)
+- 🛡️ **DevSecOps** & Automação de Segurança
+- 📈 **Engenharia de Dados** & Analytics
+- ⚙️ **Pipelines CI/CD** & Infrastructure as Code
+- 🔐 **Boas Práticas de Segurança**
+
+</td>
+<td width="40%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="280" alt="Obi-Wan programando"/>
+  
+  <br/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=280&lines=const+jedi+%3D+new+Developer();+jedi.learn();)](https://git.io/typing-svg)
+  
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&hide_border=true"/>
