@@ -66,18 +66,17 @@
 </div>
 
 ## **Certificados & Qualificações**
-
 <div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQEJS_PwoL_OUQ/profile-treasury-image-shrink_1280_1280/B56ZlaWjqlG4AU-/0/1758157487997?e=1759276800&v=beta&t=AC_juMRECF-e0pSVqb7kScSDBDfmU9ATOGZiz093uVw" width="250" alt="Certificado 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/user-attachments/assets/3743b81b-fdaf-43e6-b68b-66c24192e3c1" width="250" alt="Certificado 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </td>
 <td width="33%" align="center">
   <img src="https://media.licdn.com/dms/image/v2/D562DAQF0U0k2Vou8sg/profile-treasury-image-shrink_800_800/B56ZksVwbTH8Ac-/0/1757385525691?e=1759276800&v=beta&t=oxUW82TfmXqaszsrMqr4mc0qBv49QdQZP8cjE3-lXn4" width="250" alt="Certificado 2" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </td>
 <td width="34%" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQH9KfYSdZDR4Q/profile-treasury-image-shrink_8192_8192/B56ZkPiChwHkAo-/0/1756902206072?e=1759276800&v=beta&t=cHLIQ9kwfR4sZOIs4Nm9ZDwtwduwDRtpK1egtQuw1F4" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </td>
 </tr>
 </table>
