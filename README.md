@@ -59,27 +59,31 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiago-code-lab&theme=radical"/>
 </div>
 
+---
+
 <div align="center">
 
 ### 📜 ─────────── **CERTIFICAÇÕES** ─────────── 📜
 
 </div>
 
-## **Certificados & Qualificações**
+<br>
+
 <div align="center">
+
+## **Certificados & Qualificações**
+
 <table>
 <tr>
 <td width="33%" align="center">
   <img src="https://github.com/user-attachments/assets/3743b81b-fdaf-43e6-b68b-66c24192e3c1" width="250" alt="Certificado 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</td>
-<td width="33%" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D562DAQF0U0k2Vou8sg/profile-treasury-image-shrink_800_800/B56ZksVwbTH8Ac-/0/1757385525691?e=1759276800&v=beta&t=oxUW82TfmXqaszsrMqr4mc0qBv49QdQZP8cjE3-lXn4" width="250" alt="Certificado 2" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </td>
 <td width="34%" align="center">
   <img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
@@ -90,10 +94,14 @@
 
 </div>
 
-## **Conquistas & Reconhecimentos**
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+
+## **Conquistas & Reconhecimentos**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+
 </div>
 
 ---
@@ -146,13 +154,12 @@
 
 <br>
 
+<div align="center">
+
 ## **Estatísticas Detalhadas**
 
-<div align="center">
-  
 ![Visualizações](https://komarev.com/ghpvc/?username=Thiago-code-lab&color=ff69b4&style=for-the-badge&label=Visitantes)
 ![Seguidores](https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=blue)
-![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-Crescendo-green?style=for-the-badge)
 
 </div>
 
