@@ -81,6 +81,7 @@
 <td width="34%" align="center">
   <img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </td>
+  <img src="https://github.com/user-attachments/assets/4d136940-2cd4-4b17-a6e3-2701a347df39" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </tr>
 </table>
 
