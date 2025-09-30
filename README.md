@@ -75,17 +75,20 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
-  <img src="https://github.com/user-attachments/assets/3743b81b-fdaf-43e6-b68b-66c24192e3c1" width="250" alt="Certificado 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</td>
-<td width="34%" align="center">
-  <img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</td>
-  <img src="https://github.com/user-attachments/assets/4d136940-2cd4-4b17-a6e3-2701a347df39" width="250" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/3743b81b-fdaf-43e6-b68b-66c24192e3c1" width="200" alt="Certificado 1" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="200" alt="Certificado 2" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/4d136940-2cd4-4b17-a6e3-2701a347df39" width="200" alt="Certificado 3" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
+    <td width="25%" align="center">
+        <img src="https://github.com/user-attachments/assets/59772107-d160-4855-a62b-f7bd32243622" width="200" alt="Certificado 4" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+    </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
