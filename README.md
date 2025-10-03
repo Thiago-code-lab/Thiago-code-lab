@@ -102,9 +102,9 @@
 
 <div align="center">
 
-## **Conquistas & Reconhecimentos**
+## 🏆 **Conquistas & Reconhecimentos**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus do GitHub" />
 
 </div>
 
