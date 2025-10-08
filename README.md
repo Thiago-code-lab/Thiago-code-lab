@@ -175,10 +175,6 @@
 
 </div>
 
-<br>
-
-## **Conecte-se Comigo**
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analyticsdev.thiago@gmail.com)
