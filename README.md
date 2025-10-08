@@ -124,14 +124,14 @@
 <tr>
 <td width="33%">
 
-### **Q2 2025**
+### **S2 2025**
 - AWS Cloud Practitioner
 - Finalizar projeto DevSecOps
 
 </td>
 <td width="33%">
 
-### **Q1-Q2 2026**
+### **S1-S2 2026**
 - AWS Solutions Architect
 - Kubernetes certification
 - Tech talks/artigos
@@ -139,7 +139,7 @@
 </td>
 <td width="34%">
 
-### **Q1-Q2 2027**
+### **S1-S2 2027**
 - Engenheiro de Dados Jr
 - Especialização Cloud
 - Mentoria técnica
@@ -156,11 +156,7 @@
 
 </div>
 
-<br>
-
 <div align="center">
-
-## **Estatísticas Detalhadas**
 
 ![Visualizações](https://komarev.com/ghpvc/?username=Thiago-code-lab&color=ff69b4&style=for-the-badge&label=Visitantes)
 ![Seguidores](https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=blue)
