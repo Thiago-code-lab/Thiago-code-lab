@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Data%20Analytics&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20DevSecOps%20%7C%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -76,35 +76,100 @@ return 'Never Stop'
 
 <div align="center">
 
-## 🛠️ Stack Tecnológica
+## 💻 Minhas Ferramentas e Tecnologias Favoritas
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 💻 Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🔧 Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>Actions
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -114,8 +179,21 @@ return 'Never Stop'
 
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&border_radius=10&hide_border=true"/>
+<p align="center">
+  <a href="https://github.com/Thiago-code-lab?tab=repositories">
+    <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thiago-code-lab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Thiago-code-lab?tab=followers">
+    <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Thiago-code-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
+  </a>
+</p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&locale=pt-br"/>
+
+<br/>
+
+**Nota:** As linguagens mais usadas são apenas uma métrica das linguagens que meu código público consiste e não refletem experiência ou nível de habilidade.
 
 </div>
 
@@ -128,7 +206,11 @@ return 'Never Stop'
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-code-lab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
+
+### 🔥 Estatísticas de Sequência
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-code-lab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&locale=pt-br"/>
+
 </div>
 
 ---
@@ -225,11 +307,8 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 
 ---
 
-<div align="center">
-
-## 🎯 Roadmap de Carreira 2025-2027
-
-</div>
+<details open>
+  <summary><h2>🎯 Roadmap de Carreira 2025-2027</h2></summary>
 
 <br/>
 
@@ -241,8 +320,7 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 **Foco: Cloud & Certificações**
 
 ✅ AWS Cloud Practitioner  
-✅ Projeto DevSecOps completo  
-✅ Dashboard de monitoramento  
+✅ Projeto DevSecOps completo   
 
 </td>
 <td width="33%" align="center">
@@ -271,6 +349,8 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 </td>
 </tr>
 </table>
+
+</details>
 
 ---
 
@@ -351,6 +431,10 @@ Transformando desafios em oportunidades
 ![Stars](https://img.shields.io/github/stars/Thiago-code-lab?label=Total%20de%20Stars&style=for-the-badge&color=667eea)
 
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 ---
 
