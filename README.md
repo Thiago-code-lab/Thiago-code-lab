@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20DevSecOps%20%7C%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estagiário%20DevSecOps%20%7C%20Futuro%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -12,19 +12,19 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Olá! Sou **Thiago Cardoso Davi**, apaixonado por tecnologia, inovação e solução de problemas complexos. Atualmente atuo como **Estagiário DevSecOps** na **Compass UOL**, onde integro desenvolvimento, segurança e operações para criar sistemas robustos e seguros.
 
 ### 🎓 Formação Acadêmica
-- 📚 **Tecnólogo em Big Data para Negócios** - FATEC Ipiranga
-- 🎨 **Técnico em Marketing** - ETEC
+-  **Tecnólogo em Big Data para Negócios** - FATEC Ipiranga
+-  **Técnico em Marketing** - ETEC
 
 ### 💼 Experiência Profissional
-- 🔐 **Estagiário DevSecOps** @ Compass UOL
-- 📊 Desenvolvimento de pipelines CI/CD seguros
-- ☁️ Automação de infraestrutura em nuvem
-- 🛡️ Implementação de práticas de segurança
+-  **Estagiário DevSecOps** @ Compass UOL
+-  Desenvolvimento de pipelines CI/CD seguros
+-  Automação de infraestrutura em nuvem
+-  Implementação de práticas de segurança
 
 ### 🎯 Áreas de Interesse
 ```python
@@ -236,25 +236,25 @@ return 'Never Stop'
 <div align="center">
 <table>
 <tr>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/3743b81b-fdaf-43e6-b68b-66c24192e3c1" width="180" alt="Google Cloud Gemini"/><br/><br/>
+<td width="25%" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/fcc495ed-dbf9-47de-9831-37b0229861a6" width="180" alt="Google Cloud Gemini"/><br/><br/>
 <strong>Google Cloud</strong><br/>
-<sub>Gemini & Multimodal AI</sub>
+<sub>Inteligência Artificial Generativa</sub>
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="180" alt="AWS Cloud Practitioner"/><br/><br/>
 <strong>AWS</strong><br/>
 <sub>Cloud Practitioner Trained</sub>
 </td>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/4d136940-2cd4-4b17-a6e3-2701a347df39" width="180" alt="Certificado 3"/><br/><br/>
-<strong>Certificação</strong><br/>
-<sub>Especialização Técnica</sub>
+<td width="25%" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/4d136940-2cd4-4b17-a6e3-2701a347df39" width="180" alt="Cisco CiberEducação"/><br/><br/>
+<strong>Cisco CiberEducação</strong><br/>
+<sub>Técnico em Redes de Computadores</sub>
 </td>
-<td width="25%" align="center">
-<img src="https://github.com/user-attachments/assets/59772107-d160-4855-a62b-f7bd32243622" width="180" alt="Certificado 4"/><br/><br/>
-<strong>Certificação</strong><br/>
-<sub>Desenvolvimento Profissional</sub>
+<td width="25%" align="center" valign="top">
+<img src="https://github.com/user-attachments/assets/e5b95709-38cd-477b-91bb-eb72abc0e8b1" width="180" alt="Cisco Maratona"/><br/><br/>
+<strong>11ª Maratona Cisco Brasil</strong><br/>
+<sub>Cyber Threat Management</sub>
 </td>
 </tr>
 </table>
@@ -289,7 +289,7 @@ Plataforma de planejamento de viagens com Flask, mapas interativos e sistema de 
 
 **Stack**: Flask • JavaScript • Google Maps • SQLite
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab/tour4friends)
+[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab/fatec_ipi_print3.git)
 
 </td>
 <td width="34%" align="center">
@@ -309,21 +309,21 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 
 <details open>
   <summary><h2>🎯 Roadmap de Carreira 2025-2027</h2></summary>
-
+  
 <br/>
 
 <table align="center" width="90%">
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 📅 2025 S2
 **Foco: Cloud & Certificações**
 
 ✅ AWS Cloud Practitioner  
-✅ Projeto DevSecOps completo   
+✅ Projeto DevSecOps completo  
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 📅 2026 S1-S2
 **Foco: Arquitetura & Especialização**
@@ -334,72 +334,23 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 🎯 Contribuições open source
 
 </td>
-<td width="34%" align="center">
+<td width="34%" align="center" valign="top">
 
 ### 📅 2027 S1-S2
 **Foco: Liderança & Impacto**
 
-✅ Conclusão curso Big Data
-✅ Iniciar Pós-graduação
 🎯 Engenheiro de Dados Júnior  
 🎯 Especialização em Cloud  
 🎯 Mentoria técnica  
-🎯 Projetos de alto impacto
+🎯 Projetos de alto impacto  
+✅ Conclusão curso Big Data  
+✅ Iniciar Pós-graduação
 
 </td>
 </tr>
 </table>
 
 </details>
-
----
-
-<div align="center">
-
-## 💡 Filosofia de Trabalho
-
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎯
-**Foco em Qualidade**
-
-Código limpo, documentado e testado
-
-</td>
-<td align="center" width="25%">
-
-### 🚀
-**Aprendizado Contínuo**
-
-Sempre evoluindo e me atualizando
-
-</td>
-<td align="center" width="25%">
-
-### 🤝
-**Colaboração**
-
-Compartilhando conhecimento
-
-</td>
-<td align="center" width="25%">
-
-### 💪
-**Resiliência**
-
-Transformando desafios em oportunidades
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -416,36 +367,21 @@ Transformando desafios em oportunidades
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511952069862)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab)
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Obrigado+pela+visita!+🚀;Vamos+construir+o+futuro+juntos!+💡;Sempre+aberto+para+novas+oportunidades!+✨" alt="Thank You Message" />
-
 </div>
 
-<br/>
+---
 
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=Thiago-code-lab&color=667eea&style=for-the-badge&label=Visitantes+do+Perfil)
-![Followers](https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=667eea)
-![Stars](https://img.shields.io/github/stars/Thiago-code-lab?label=Total%20de%20Stars&style=for-the-badge&color=667eea)
-
+  
+**"Raramente estou mais feliz do que quando passo um dia inteiro a programar o meu computador para fazer automaticamente uma tarefa que de outra forma demoraria uns bons dez segundos a fazer à mão."**
+  
+*— Douglas Adams*
+  
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-
----
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 </div>
-
-<div align="center">
   
-  **"O sucesso não é o final, o fracasso não é fatal: é a coragem de continuar que conta."**
-  
-  *— Winston Churchill*
-  
-</div>
