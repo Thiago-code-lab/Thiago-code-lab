@@ -8,6 +8,13 @@
 
 <br/>
 
+<p align="left">
+  <img alt="python-gif" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90px" />
+  <img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="90px" />
+</p>
+
+<br/>
+
 <table>
 <tr>
 <td width="60%" valign="top">
