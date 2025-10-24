@@ -211,9 +211,24 @@ return 'Never Stop'
 
 <div align="center">
 
-## 🏆 Conquistas & Troféus
+## 🏆 Conquistas & Métricas
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thiago-code-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1" alt="GitHub Trophies" />
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=667eea&labelColor=1a1b27" />
+<br/>👥 <strong>Comunidade</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Commits-100+-667eea?style=for-the-badge&labelColor=1a1b27" />
+<br/>💻 <strong>Contribuições</strong>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Projetos-15+-667eea?style=for-the-badge&labelColor=1a1b27" />
+<br/>🚀 <strong>Repositórios</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
