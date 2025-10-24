@@ -2,16 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estagiário%20DevSecOps%20%7C%20Futuro%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
 </div>
 
-<p align="center">
-  <img alt="python-gif" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60px" />
-  <img width="12px" />
-  <img alt="cloud-gif" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90px" />
-  <img width="12px" />
-  <img alt="terminal-gif" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60px" />
-  <img width="12px" />
-  <img alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="60px" />
-</p>
-
 <table>
 <tr>
 <td width="60%" valign="top">
