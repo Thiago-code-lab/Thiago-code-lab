@@ -66,12 +66,13 @@ return 'Never Stop'
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
-## 💻 Minhas Ferramentas e Tecnologias Favoritas
-
+## Minhas Ferramentas e Tecnologias Favoritas
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -167,20 +168,13 @@ return 'Never Stop'
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/Thiago-code-lab?tab=repositories">
-    <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thiago-code-lab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/Thiago-code-lab?tab=followers">
-    <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Thiago-code-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
-  </a>
-</p>
+## Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&locale=pt-br"/>
@@ -191,6 +185,11 @@ return 'Never Stop'
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+
 <br/>
 
 <div align="center">
@@ -200,18 +199,25 @@ return 'Never Stop'
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-### 🔥 Estatísticas de Sequência
+<div align="center">
+
+
+### Estatísticas de Sequência
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-code-lab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&locale=pt-br"/>
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
-## 🏆 Conquistas & Métricas
+## Conquistas & Métricas
 
 <table>
 <tr>
@@ -232,11 +238,13 @@ return 'Never Stop'
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
-## 🎓 Certificações & Qualificações
+## Certificações & Qualificações
 
 </div>
 
@@ -269,11 +277,13 @@ return 'Never Stop'
 </table>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 </div>
 
@@ -283,7 +293,7 @@ return 'Never Stop'
 <tr>
 <td width="33%" align="center">
 
-### 🎬 Netflix Data Pipeline
+### 🎭 Netflix Data Pipeline
 Pipeline ETL completo para análise do catálogo Netflix com Python, PostgreSQL e visualizações avançadas.
 
 **Stack**: Python • PostgreSQL • Pandas • Plotly
@@ -314,10 +324,12 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <details open>
-  <summary><h2>🎯 Roadmap de Carreira 2025-2027</h2></summary>
+  <summary><h2> Roadmap de Carreira 2025-2027</h2></summary>
   
 <br/>
 
@@ -361,11 +373,13 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 
 </details>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
 
-## 📬 Entre em Contato
+## Entre em Contato
 
 **Estou sempre aberto para colaborações, networking e novas oportunidades!**
 
@@ -378,7 +392,9 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <div align="center">
   
