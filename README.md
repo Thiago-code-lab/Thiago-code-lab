@@ -176,7 +176,6 @@ return 'Never Stop'
 
 ## Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&locale=pt-br"/>
 
 <br/>
