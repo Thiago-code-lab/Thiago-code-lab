@@ -203,19 +203,6 @@ return 'Never Stop'
 
 <div align="center">
 
-
-### Estatísticas de Sequência
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-code-lab&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%2C%20Y%5D&locale=pt-br"/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-
 ## Conquistas & Métricas
 
 <table>
