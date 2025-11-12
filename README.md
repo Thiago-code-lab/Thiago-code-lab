@@ -3,10 +3,7 @@
   
   <br/>
   
-  [![Spotify](https://img.shields.io/badge/DevSecVibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5P2ko98wOqP3tGqw0diurS?si=b63403fa2e634242)
-  
-  <sub>*🎵 minha playlist de produtividade*</sub>
-  
+  [![Spotify](https://img.shields.io/badge/DevSecVibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5P2ko98wOqP3tGqw0diurS?si=b63403fa2e634242)  
   <br/>
 </div>
 
