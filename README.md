@@ -250,11 +250,11 @@ return 'Never Stop'
 <sub>Inteligência Artificial Generativa</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/8b57214d-91d5-48b9-9bdd-76b1e9e5d967" width="180" alt="AWS Cloud Practitioner"/><br/><br/>
-<strong>AWS</strong><br/>
-<sub>Cloud Practitioner Trained</sub>
+<img src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f" width="180" alt="AWS Cloud Practitioner"/><br/><br/>
+<strong>Google</strong><br/>
+<sub>Analista de dados Profissional</sub>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="15%" align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/4d136940-2cd4-4b17-a6e3-2701a347df39" width="180" alt="Cisco CiberEducação"/><br/><br/>
 <strong>Cisco CiberEducação</strong><br/>
 <sub>Técnico em Redes de Computadores</sub>
@@ -262,7 +262,7 @@ return 'Never Stop'
 <td width="25%" align="center" valign="top">
 <img src="https://github.com/user-attachments/assets/e5b95709-38cd-477b-91bb-eb72abc0e8b1" width="180" alt="Cisco Maratona"/><br/><br/>
 <strong>11ª Maratona Cisco Brasil</strong><br/>
-<sub>Cyber Threat Management</sub>
+<sub>Gerenciamento de Ameaças Cibernéticas</sub>
 </td>
 </tr>
 </table>
