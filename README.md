@@ -41,7 +41,7 @@ competencias = {
 
 <br/>
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFzk_EbdGFUXg/profile-displayphoto-crop_800_800/B56ZpRDXSuG0AI-/0/1762296429573?e=1766016000&v=beta&t=1JgjXPGFsfXvALvsWRSqgWK26UlwOss9hvDjOcNUaug" width="220" style="border-radius: 50%;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFgfOo2uepp7w/profile-displayphoto-crop_800_800/B56ZrVpQNfLAAI-/0/1764520955311?e=1766016000&v=beta&t=thzEkwiJT8EQ11ZSAAsbEYReL5GZcfjUnQbhxloTxEg" width="220" style="border-radius: 50%;"/>
 
 <br/><br/>
 
