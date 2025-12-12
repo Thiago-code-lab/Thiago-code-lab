@@ -300,7 +300,7 @@ Plataforma de planejamento de viagens com Flask, mapas interativos e sistema de 
 
 **Stack**: Flask • JavaScript • Google Maps • SQLite
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab/fatec_ipi_print3.git)
+[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiago-code-lab/tour4friends-analytics.git)
 
 </td>
 <td width="34%" align="center">
