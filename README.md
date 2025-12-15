@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estagiário%20DevSecOps%20%7C%20Futuro%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
-  
-  <br/>
-  
-  [![Spotify](https://img.shields.io/badge/DevSecVibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5P2ko98wOqP3tGqw0diurS?si=b63403fa2e634242)  
-  <br/>
-</div>
+
 
 <table>
 <tr>
