@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estagiário%20DevSecOps%20%7C%20Futuro%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estudante%20DataOps%20%7C%20Futuro%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
 </div>
 
 <br/>
@@ -38,7 +38,7 @@ competencias = {
 
 <br/>
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFgfOo2uepp7w/profile-displayphoto-crop_800_800/B56ZrVpQNfLAAI-/0/1764520955311?e=1766016000&v=beta&t=thzEkwiJT8EQ11ZSAAsbEYReL5GZcfjUnQbhxloTxEg" width="240" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 4px 8px rgba(102, 126, 234, 0.3);"/>
+<img src="https://media.licdn.com/dms/image/v2/D5603AQFgfOo2uepp7w/profile-displayphoto-crop_800_800/B56ZrVpQNfLAAI-/0/1764520955311?e=1767830400&v=beta&t=CcZiQ4FHx8ErWR7TpePRXruvVI5nNWr_bO34I5DrpqI" width="240" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 4px 8px rgba(102, 126, 234, 0.3);"/>
 
 <br/><br/>
 
