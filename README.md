@@ -303,61 +303,43 @@ return 'Never Stop'
 <div align="center">
 
 ## 🚀 Projetos em Destaque
-
 </div>
-
 <br/>
-
 <table align="center" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
 ### 🎭 Netflix Data Pipeline
-
 Pipeline ETL completo para análise do catálogo Netflix com Python, PostgreSQL e visualizações avançadas.
 
 **Stack:** Python • PostgreSQL • Pandas • Plotly
-
 <br/>
-
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/Thiago-code-lab/data-engineering-netflix)
-
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🏞️ Tour4Friends
+### 🛡️ AWS Fraud Detection Pipeline
+Sistema de detecção de fraude em tempo real com streaming de dados usando Kinesis, S3, Glue e Spark.
 
-Plataforma de planejamento de viagens com Flask, mapas interativos e sistema de chat em tempo real.
-
-**Stack:** Flask • JavaScript • Google Maps • SQLite
-
+**Stack:** AWS Kinesis • S3 • Glue • Spark • Terraform
 <br/>
-
-[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/Thiago-code-lab/tour4friends-analytics.git)
-
+[![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/Thiago-code-lab/aws-streaming-fraud-detection)
 </td>
 <td width="34%" align="center" valign="top">
 
 ### 🔔 Nginx Monitor
-
 Sistema de monitoramento automatizado com alertas via Discord webhook e auto-recovery.
 
 **Stack:** Bash • Nginx • Linux • Docker • Discord
-
 <br/>
-
 [![Repo](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea)](https://github.com/Thiago-code-lab/nginx-monitor-discord)
-
 </td>
 </tr>
 </table>
-
 <br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
 <br/>
 
 <details open>
