@@ -10,24 +10,31 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou **Thiago Cardoso Davi**, apaixonado por tecnologia, inovação e solução de problemas complexos. Atualmente atuo como **Estagiário DevSecOps** na **Compass UOL**, onde integro desenvolvimento, segurança e operações para criar sistemas robustos e seguros.
+Olá! Sou **Thiago Cardoso Davi**, apaixonado por tecnologia e inovação. Atualmente dedico-me à graduação em **Big Data para Negócios** e ao aprofundamento técnico em Cloud Computing.
+
+Possuo experiência prática em **DevSecOps**, tendo atuado na integração de desenvolvimento, segurança e operações para criar sistemas robustos. No momento, estou focado em projetos de **Engenharia de Dados na AWS** e em obter certificações avançadas.
 
 ### 🎓 Formação Acadêmica
-- 📚 **Tecnólogo em Big Data para Negócios** - FATEC Ipiranga
+- 📚 **Tecnólogo em Big Data para Negócios** - FATEC Ipiranga (Previsão: 06/2027)
 - 🎯 **Técnico em Marketing** - ETEC
 
-### 💼 Experiência Profissional
+### 💼 Experiência
 - 🔐 **Estagiário DevSecOps** @ Compass UOL
   - Desenvolvimento de pipelines CI/CD seguros
-  - Automação de infraestrutura em nuvem
+  - Automação de infraestrutura em nuvem (IaC)
   - Implementação de práticas de segurança
+
+### 🚀 Foco & Metas 2026
+- ☁️ **AWS Certified Solutions Architect** (SAA-C03) - *Em preparação*
+- 🇺🇸 **Inglês Técnico** (Rumo ao nível B2)
+- 🛠️ **Projeto Atual:** Pipeline de Detecção de Fraude (AWS Kinesis + Terraform)
 
 ### 🎯 Áreas de Interesse
 ```python
 competencias = {
-    "Cloud": ["AWS", "Google Cloud", "Azure"],
+    "Cloud": ["AWS (Foco)", "Google Cloud", "Azure"],
     "DevSecOps": ["CI/CD", "Security", "Automation"],
-    "Data": ["ETL", "Analytics", "Big Data"],
+    "DataOps": ["Kinesis", "ETL", "Analytics"],
     "IaC": ["Terraform", "CloudFormation"],
     "Containers": ["Docker", "Kubernetes"]
 }
