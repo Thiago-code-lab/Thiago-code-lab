@@ -9,14 +9,11 @@
 <td width="60%" valign="top">
 
 ## 👨‍💻 Sobre Mim
+Estudante de **Big Data** com vivência prática em **DevSecOps**. Atualmente, dedico-me a projetos de **Engenharia de Dados na AWS** e à especialização em arquitetura de nuvem.
 
-Olá! Sou **Thiago Cardoso Davi**, apaixonado por tecnologia e inovação. Atualmente dedico-me à graduação em **Big Data para Negócios** e ao aprofundamento técnico em Cloud Computing.
-
-Possuo experiência prática em **DevSecOps**, tendo atuado na integração de desenvolvimento, segurança e operações para criar sistemas robustos. No momento, estou focado em projetos de **Engenharia de Dados na AWS** e em obter certificações avançadas.
-
-### 🎓 Formação Acadêmica
-- 📚 **Tecnólogo em Big Data para Negócios** - FATEC Ipiranga (Previsão: 06/2027)
-- 🎯 **Técnico em Marketing** - ETEC
+### 🎓 Formação
+- 📚 **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
+- 🎯 **Técnico em Marketing** | ETEC
 
 ### 💼 Experiência
 - 🔐 **Estagiário DevSecOps** @ Compass UOL
