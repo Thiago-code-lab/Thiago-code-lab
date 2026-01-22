@@ -3,10 +3,16 @@
 </div>
 
 <br/>
-@RESRE
+
 <table>
 <tr>
 <td width="60%" valign="top">
+
+<div align="center">
+  <a href="https://thiago-code-lab.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfólio_Online-Ver_Projetos-blue?style=for-the-badge&logo=vercel" alt="Portfolio Thiago Cardoso">
+  </a>
+</div>
 
 ## 👨‍💻 Sobre Mim
 Estudante de **Big Data** com vivência prática em **DevSecOps**. Atualmente, dedico-me a projetos de **Engenharia de Dados na AWS** e à especialização em arquitetura de nuvem.
