@@ -14,25 +14,25 @@
   </a>
 </div>
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 Estudante de **Big Data** com vivência prática em **DevSecOps**. Atualmente, dedico-me a projetos de **Engenharia de Dados na AWS** e à especialização em arquitetura de nuvem.
 
-### 🎓 Formação
-- 📚 **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
-- 🎯 **Técnico em Marketing** | ETEC
+###  Formação
+-  **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
+-  **Técnico em Marketing** | ETEC
 
-### 💼 Experiência
-- 🔐 **Estagiário DevSecOps** @ Compass UOL
+###  Experiência
+-  **Estagiário DevSecOps** @ Compass UOL
   - Desenvolvimento de pipelines CI/CD seguros
   - Automação de infraestrutura em nuvem (IaC)
   - Implementação de práticas de segurança
 
-### 🚀 Foco & Metas 2026
-- ☁️ **AWS Certified Solutions Architect** (SAA-C03) - *Em preparação*
+###  Foco & Metas 2026
+-  **AWS Certified Solutions Architect** (SAA-C03) - *Em preparação*
 - 🇺🇸 **Inglês Técnico** (Rumo ao nível B2)
-- 🛠️ **Projeto Atual:** Pipeline de Detecção de Fraude (AWS Kinesis + Terraform)
+-  **Projeto Atual:** Pipeline de Detecção de Fraude (AWS Kinesis + Terraform)
 
-### 🎯 Áreas de Interesse
+###  Áreas de Interesse
 ```python
 competencias = {
     "Cloud": ["AWS (Foco)", "Google Cloud", "Azure"],
@@ -235,7 +235,7 @@ return 'Never Stop'
 
 <div align="center">
 
-## 🏆 Conquistas & Métricas
+##  Conquistas & Métricas
 
 <table>
 <tr>
@@ -269,7 +269,7 @@ return 'Never Stop'
 
 <div align="center">
 
-## 🎓 Certificações & Qualificações
+##  Certificações & Qualificações
 
 <table>
 <tr>
@@ -312,14 +312,14 @@ return 'Never Stop'
 
 <div align="center">
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 </div>
 <br/>
 <table align="center" width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🎭 Netflix Data Pipeline
+###  Netflix Data Pipeline
 Pipeline ETL completo para análise do catálogo Netflix com Python, PostgreSQL e visualizações avançadas.
 
 **Stack:** Python • PostgreSQL • Pandas • Plotly
@@ -328,7 +328,7 @@ Pipeline ETL completo para análise do catálogo Netflix com Python, PostgreSQL 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🛡️ AWS Fraud Detection Pipeline
+###  AWS Fraud Detection Pipeline
 Sistema de detecção de fraude em tempo real com streaming de dados usando Kinesis, S3, Glue e Spark.
 
 **Stack:** AWS Kinesis • S3 • Glue • Spark • Terraform
@@ -337,7 +337,7 @@ Sistema de detecção de fraude em tempo real com streaming de dados usando Kine
 </td>
 <td width="34%" align="center" valign="top">
 
-### 🔔 Nginx Monitor
+###  Nginx Monitor
 Sistema de monitoramento automatizado com alertas via Discord webhook e auto-recovery.
 
 **Stack:** Bash • Nginx • Linux • Docker • Discord
