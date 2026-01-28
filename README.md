@@ -97,7 +97,9 @@ return 'Never Stop'
 <br/>
 
 <div align="center">
-## 🛠️ Minhas Ferramentas e Tecnologias Favoritas
+  
+## Minhas Ferramentas e Tecnologias Favoritas
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -203,7 +205,7 @@ return 'Never Stop'
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&locale=pt-br"/>
 
