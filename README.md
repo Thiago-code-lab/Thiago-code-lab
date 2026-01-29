@@ -53,19 +53,20 @@ competencias = {
 <br/><br/>
 
 ```python
-while learning:
-    evolve()
+def jornada_do_sucesso():
+    while aprendendo:
+        evolua()
 
-if challenges:
-    overcome()
+    if desafios:
+        supere()
 
-try:
-    persist()
-except Failure:
-    learn()
-    retry()
+    try:
+        persista()
+    except Falha:
+        aprenda()
+           retry() 
 
-return 'Never Stop'
+    return "Nunca Pare"
 ```
 
 <br/>
