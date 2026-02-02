@@ -108,7 +108,7 @@ def jornada_do_sucesso():
       <br><strong>Python</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="65" height="65" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
     <td align="center" width="96">
@@ -124,72 +124,42 @@ def jornada_do_sucesso():
       <br><strong>MySQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
       <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <img src="https://skillicons.dev/icons?i=terraform&theme=light" width="65" height="65" alt="Terraform" />
       <br><strong>Terraform</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Apache Spark" />
-      <br><strong>Spark</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-      <br><strong>Kafka</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" alt="Airflow" />
-      <br><strong>Airflow</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br><strong>Redis</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake-icon.svg" width="48" height="48" alt="Snowflake" />
-      <br><strong>Snowflake</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" alt="DBT" />
-      <br><strong>DBT</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <img src="https://skillicons.dev/icons?i=bash&theme=light" width="65" height="65" alt="Bash" />
       <br><strong>Bash</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
       <br><strong>Git</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="65" height="65" alt="GitHub Actions" />
       <br><strong>Actions</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-      <br><strong>Grafana</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
-      <br><strong>Elastic</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
       <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=golang&theme=light" width="65" height="65" alt="Golang" />
+      <br><strong>Golang</strong>
     </td>
   </tr>
 </table>
