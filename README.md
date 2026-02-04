@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Thiago%20Cardoso%20Davi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Estudante%20DataOps%20%7C%20Futuro%20Arquiteto%20Cloud%20%7C%20Análise%20de%20Dados&descAlignY=55&descSize=18"/>
-</div>
-
-<br/>
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -15,14 +9,19 @@
 </div>
 
 ## Sobre Mim
-Estudante de **Big Data** com vivência prática em **DevSecOps**. Atualmente, dedico-me a projetos de **Engenharia de Dados na AWS** e à especialização em arquitetura de nuvem.
+Estudante de **Big Data** com vivência prática em **DevSecOps** e **Cloud Computing**. Atualmente, atuo como **Analista de Cloud Jr** e dedico-me a projetos de **Cloud Computing AWS** e à especialização em arquitetura de nuvem.
 
-###  Formação
--  **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
--  **Técnico em Marketing** | ETEC
+### 🎓 Formação
+- **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
+- **Técnico em Marketing** | ETEC
 
-###  Experiência
--  **Estagiário DevSecOps** @ Compass UOL
+### 💼 Experiência
+- **Analista de Cloud Jr** @ Pixxel *(2026 - Atual)*
+  - Gestão e otimização de infraestrutura em nuvem
+  - Implementação de soluções cloud-native
+  - Monitoramento e garantia de disponibilidade de serviços
+
+- **Estagiário DevSecOps** @ Compass UOL (2025)
   - Desenvolvimento de pipelines CI/CD seguros
   - Automação de infraestrutura em nuvem (IaC)
   - Implementação de práticas de segurança
@@ -30,7 +29,6 @@ Estudante de **Big Data** com vivência prática em **DevSecOps**. Atualmente, d
 ###  Foco & Metas 2026
 -  **AWS Certified Solutions Architect** (SAA-C03) - *Em preparação*
 - 🇺🇸 **Inglês Técnico** (Rumo ao nível B2)
--  **Projeto Atual:** Pipeline de Detecção de Fraude (AWS Kinesis + Terraform)
 
 ###  Áreas de Interesse
 ```python
