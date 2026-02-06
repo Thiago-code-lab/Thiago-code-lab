@@ -422,8 +422,6 @@ Sistema de monitoramento automatizado com alertas via Discord webhook e auto-rec
 > **"Raramente estou mais feliz do que quando passo um dia inteiro a programar o meu computador para fazer automaticamente uma tarefa que de outra forma demoraria uns bons dez segundos a fazer à mão."**
 > 
 > *— Douglas Adams*
-
- ![Cinema](https://media.giphy.com/media/YawEI2PPkoTtw7ogpo/giphy.gif)
   
 </div>
 
