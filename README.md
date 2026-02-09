@@ -46,7 +46,7 @@ competencias = {
 
 <br/>
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/7da5c4a2-ce3a-4ee3-b6c4-47c3e24709e1" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/68a754c2-43ef-4026-acf9-84cc583ddf28" />
 
 <br/><br/>
 
