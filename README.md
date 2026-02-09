@@ -46,7 +46,7 @@ competencias = {
 
 <br/>
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQFgfOo2uepp7w/profile-displayphoto-crop_800_800/B56ZrVpQNfLAAI-/0/1764520955311?e=1771459200&v=beta&t=mQJgQa6CKvsr_jTb4vKk9eq6lwqqOW849UW4EZE6pc8" width="240" style="border-radius: 50%; border: 4px solid #667eea; box-shadow: 0 4px 8px rgba(102, 126, 234, 0.3);"/>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/7da5c4a2-ce3a-4ee3-b6c4-47c3e24709e1" />
 
 <br/><br/>
 
