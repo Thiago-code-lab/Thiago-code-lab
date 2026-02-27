@@ -193,7 +193,7 @@ def jornada_do_sucesso():
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=📈%20Gráfico%20de%20Atividades"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thiago-code-lab&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/>
 </div>
 
 <br/>
