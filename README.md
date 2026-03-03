@@ -211,7 +211,7 @@ def jornada_do_sucesso():
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/github/followers/Thiago-code-lab?label=Seguidores&style=for-the-badge&color=667eea&labelColor=1a1b27&logo=github" />
+<img src="https://img.shields.io/badge/Seguidores-10+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
 <br/><br/>
 <strong>👥 Comunidade</strong>
 </td>
