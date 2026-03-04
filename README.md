@@ -46,7 +46,7 @@ competencias = {
 
 <br/>
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/65115236-8737-4c6d-a751-1f69f3e6a3b6" />
+![Guy](https://media.giphy.com/media/1ZFs09coMh2uIz0aWn/giphy.gif)
 
 <br/><br/>
 
