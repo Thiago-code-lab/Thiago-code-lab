@@ -44,30 +44,9 @@ competencias = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<br/>
-
 ![Guy](https://media.giphy.com/media/1ZFs09coMh2uIz0aWn/giphy.gif)
 
-<br/><br/>
-
-```python
-def jornada_do_sucesso():
-    while aprendendo:
-        evolua()
-
-    if desafios:
-        supere()
-
-    try:
-        persista()
-    except Falha:
-        aprenda()
-           retry() 
-
-    return "Nunca Pare"
-```
-
-<br/>
+![Dog](https://media.giphy.com/media/D3NXkdQhWNtCHqrPrM/giphy.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
@@ -81,7 +60,24 @@ def jornada_do_sucesso():
   </a>
 </p>
 
-![Dog](https://media.giphy.com/media/D3NXkdQhWNtCHqrPrM/giphy.gif)
+```python
+def jornada_do_sucesso():
+    while aprendendo:
+        evolua()
+
+    if desafios:
+        supere()
+
+    try:
+        persista()
+    except Falha:
+        aprenda()
+        retry()
+
+    return "Nunca Pare"
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Activity Graph" />
 
 </td>
 </tr>
@@ -92,10 +88,6 @@ def jornada_do_sucesso():
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<br/>
-
-<div align="center">
   
 ## Minhas Ferramentas e Tecnologias Favoritas
 
