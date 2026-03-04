@@ -83,8 +83,6 @@ def jornada_do_sucesso():
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Activity Graph" />
-
 </td>
 </tr>
 </table>
