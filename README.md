@@ -77,6 +77,12 @@ def jornada_do_sucesso():
     return "Nunca Pare"
 ```
 
+<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=for-the-badge&color=667eea&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views" />
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-code-lab&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="Activity Graph" />
 
 </td>
