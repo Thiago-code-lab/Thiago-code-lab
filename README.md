@@ -172,11 +172,13 @@ def jornada_do_sucesso():
 
 ## Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Thiago-code-lab&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&locale=pt-br"/>
-
-<br/><br/>
-
-> **Nota:** As linguagens mais usadas são apenas uma métrica das linguagens que meu código público consiste e não refletem experiência ou nível de habilidade.
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
