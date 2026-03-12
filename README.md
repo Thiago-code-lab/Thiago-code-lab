@@ -209,7 +209,7 @@ def jornada_do_sucesso():
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Seguidores-10+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Seguidores-20+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
 <br/><br/>
 <strong>👥 Comunidade</strong>
 </td>
@@ -219,7 +219,7 @@ def jornada_do_sucesso():
 <strong>💻 Contribuições</strong>
 </td>
 <td align="center" width="34%">
-<img src="https://img.shields.io/badge/Projetos-15+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projetos-20+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
 <br/><br/>
 <strong>🚀 Repositórios</strong>
 </td>
