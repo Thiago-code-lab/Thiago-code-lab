@@ -182,8 +182,6 @@ def jornada_do_sucesso():
 
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -191,53 +189,7 @@ def jornada_do_sucesso():
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thiago-code-lab&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br/>
-
-<div align="center">
-
-##  Conquistas & Métricas
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Seguidores-20+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
-<br/><br/>
-<strong>👥 Comunidade</strong>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Commits-100+-667eea?style=for-the-badge&labelColor=1a1b27&logo=git&logoColor=white" />
-<br/><br/>
-<strong>💻 Contribuições</strong>
-</td>
-<td align="center" width="34%">
-<img src="https://img.shields.io/badge/Projetos-20+-667eea?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" />
-<br/><br/>
-<strong>🚀 Repositórios</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br/>
-
-<div align="center">
-
+  
 ##  Certificações & Qualificações
 
 <table>
