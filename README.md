@@ -44,7 +44,7 @@ competencias = {
 </td>
 <td width="40%" valign="top" align="center">
 
-![Kevin](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhNHZyZWxjcm1ydGpydTRrOTAybTdnOW03d2FuNjZtN2ZwN2R5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rQ5cWOkvXfoTUZLIPh/giphy.gif)
+![SpiderMan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ1aXpnNnNjYnFwaXF0YzRlNWN5MHpkaHYwMWlmaWpjNmR4YndzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
