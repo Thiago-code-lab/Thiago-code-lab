@@ -17,8 +17,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://api.whatsapp.com/send?phone=5511952069862)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Thiago-code-lab)
 
-<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=00d9ff&label=profile+views&labelColor=0d1117" />
-
 </div>
 
 ---
