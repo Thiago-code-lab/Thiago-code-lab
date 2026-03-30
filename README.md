@@ -44,7 +44,7 @@ competencias = {
 </td>
 <td width="40%" valign="top" align="center">
 
-![BB8](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTlwOTFmMGl6ZDVzc3owM2xlNHVkeDNrbzlwejA2eW5tZzA0djlhdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l49JRUtu1LUWugpJm/giphy.gif)
+![BB8](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDcxNXFlbWN3OHdnNjRtcWtua2xlMzJuNHM1dG81NW52ZnB4aTUzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1r8YvFB47nAsAy36mp/giphy.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
@@ -220,7 +220,10 @@ def jornada_do_sucesso():
 
 <div align="center">
 
-## 📬 Entre em Contato
+<details>
+<summary><b>📬 Entre em Contato</b></summary>
+
+<br/>
 
 **Estou sempre aberto para colaborações, networking e novas oportunidades!**
 
@@ -241,9 +244,9 @@ def jornada_do_sucesso():
   </a>
 </p>
 
-</div>
+</details>
 
-<br/>
+</div>
 
 </div>
 
