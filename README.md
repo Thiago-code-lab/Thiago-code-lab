@@ -182,28 +182,28 @@ def jornada_do_sucesso():
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<img width="140" alt="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
+<img width="140" height="140" alt="AWS Cloud Practitioner" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
 <br/><br/>
 <strong>AWS</strong><br/>
 <sub>AWS Certified Cloud Practitioner</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/fcc495ed-dbf9-47de-9831-37b0229861a6" width="180" alt="Google Cloud Gemini"/>
+<img width="140" height="140" alt="Image" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
 <br/><br/>
-<strong>Google Cloud</strong><br/>
-<sub>Inteligência Artificial Generativa</sub>
+<strong>AWS</strong><br/>
+<sub>AWS Certified Solution Architect</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f" width="180" alt="Google Analista de Dados"/>
+<img width="180" height="140" alt="Google Analista de Dados" src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f"/>
 <br/><br/>
 <strong>Google</strong><br/>
 <sub>Analista de dados Profissional</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://github.com/user-attachments/assets/e5b95709-38cd-477b-91bb-eb72abc0e8b1" width="180" alt="Cisco Maratona"/>
+<img width="240" height="140" alt="Google Cloud" src="https://github.com/user-attachments/assets/db9e1efb-9ef0-4a23-bb9e-7c0f5ee84f05"/>
 <br/><br/>
-<strong>11ª Maratona Cisco Brasil</strong><br/>
-<sub>Gerenciamento de Ameaças Cibernéticas</sub>
+<strong>Google Cloud</strong><br/>
+<sub>Inteligência Artificial</sub>
 </td>
 </tr>
 </table>
