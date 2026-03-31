@@ -27,7 +27,7 @@ Estudante de **Big Data** com vivência prática em **DevSecOps** e **Cloud Comp
   - Implementação de práticas de segurança
 
 ###  Foco & Metas 2026
--  **AWS Certified Solutions Architect** (SAA-C03) - *Em preparação*
+-  **AWS Certified Data Engineering** ((DEA-C01)) - *Em preparação*
 - 🇺🇸 **Inglês Técnico** (Rumo ao nível B2)
 
 ###  Áreas de Interesse
