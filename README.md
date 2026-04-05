@@ -213,9 +213,6 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 
 <div align="center">
   
-> **"Raramente estou mais feliz do que quando passo um dia inteiro a programar o meu computador para fazer automaticamente uma tarefa que de outra forma demoraria uns bons dez segundos a fazer à mão."**
-> 
-> *— Douglas Adams*
   
 </div>
 
