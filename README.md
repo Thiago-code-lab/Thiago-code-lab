@@ -1,97 +1,56 @@
-<table>
-<tr>
-<td width="60%" valign="top">
-
 <div align="center">
   <a href="https://thiago-code-lab.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfólio_Online-Ver_Projetos-blue?style=for-the-badge&logo=vercel" alt="Portfolio Thiago Cardoso">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-Ver_Projetos-blue?style=for-the-badge" alt="Portfolio Thiago Cardoso">
   </a>
 </div>
 
-## Sobre Mim
-Estudante de **Big Data** com vivência prática em **DevSecOps** e **Cloud Computing**. Atualmente, atuo como **Analista de Cloud Jr** e dedico-me a projetos de **Cloud Computing AWS** e à especialização em arquitetura de nuvem.
+<br/>
 
-### 🎓 Formação
-- **Big Data para Negócios** | FATEC Ipiranga *(Previsão: 06/2027)*
-- **Técnico em Marketing** | ETEC
+<table>
+<tr>
+<td width="55%" valign="top">
 
-### 💼 Experiência
-- **Analista de Cloud Jr** @ Pixxel *(2026 - Atual)*
-  - Gestão e otimização de infraestrutura em nuvem
-  - Implementação de soluções cloud-native
-  - Monitoramento e garantia de disponibilidade de serviços
+### Thiago Cardoso
 
-- **Estagiário DevSecOps** @ Compass UOL (2025)
-  - Desenvolvimento de pipelines CI/CD seguros
-  - Automação de infraestrutura em nuvem (IaC)
-  - Implementação de práticas de segurança
+Analista de Cloud Jr com foco em **AWS**, **DevSecOps** e **IaC**.  
+Estudante de Big Data na FATEC Ipiranga.
 
-###  Foco & Metas 2026
--  **AWS Certified Data Engineering** ((DEA-C01)) - *Em preparação*
-- 🇺🇸 **Inglês Técnico** (Rumo ao nível B2)
+**Experiência**
 
-###  Áreas de Interesse
-```python
-competencias = {
-    "Cloud": ["AWS (Foco)", "Google Cloud", "Azure"],
-    "DevSecOps": ["CI/CD", "Security", "Automation"],
-    "DataOps": ["Kinesis", "ETL", "Analytics"],
-    "IaC": ["Terraform", "CloudFormation"],
-    "Containers": ["Docker", "Kubernetes"]
-}
-```
+**Cloud Jr @ Pixxel** *(2026 - Atual)*  
+Gestão e otimização de infraestrutura em nuvem, implementação de soluções cloud-native e monitoramento de disponibilidade de serviços.
+
+**Estagiário DevSecOps @ Compass UOL** *(2025)*  
+Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com IaC e implementação de práticas de segurança em nuvem.
+
+**Metas 2026**
+- AWS Certified Data Engineering (DEA-C01)
+- Inglês técnico nível C2
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-![BB8](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZseGt0bnc1dGozdmx0aXA2cWljMm5objg2YTBwMndmdGI0amtrZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jAzS2VUgF0yq6UBu7l/giphy.gif)
+![Miles Morales](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZseGt0bnc1dGozdmx0aXA2cWljMm5objg2YTBwMndmdGI0amtrZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jAzS2VUgF0yq6UBu7l/giphy.gif)
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Thiago-code-lab">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:analyticsdev.thiago@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-```python
-def jornada_do_sucesso():
-    while aprendendo:
-        evolua()
+<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=667eea&label=VIEWS" />
 
-    if desafios:
-        supere()
-
-    try:
-        persista()
-    except Falha:
-        aprenda()
-        retry()
-
-    return "Nunca Pare"
-```
-
-<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=for-the-badge&color=667eea&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views" />
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
   
 ## Minhas Ferramentas e Tecnologias Favoritas
 
