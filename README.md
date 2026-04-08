@@ -25,7 +25,10 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 
 **Metas 2026**
 - AWS Certified Data Engineering (DEA-C01)
+- AWS Certified DevOps Engineer – Professional (DOP-C02)
 - Inglês técnico nível C2
+- Aprofundar conhecimentos em observabilidade (Prometheus, Grafana, OpenTelemetry)
+- Contribuir com projetos open source nas áreas de IaC e DevSecOps
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -175,38 +178,6 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 <br/>
 
 <div align="center">
-
-<details>
-<summary><b>📬 Entre em Contato</b></summary>
-
-<br/>
-
-**Estou sempre aberto para colaborações, networking e novas oportunidades!**
-
-<br/>
-
-<p align="center">
-  <a href="mailto:analyticsdev.thiago@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511952069862">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b27" />
-  </a>
-  <a href="https://github.com/Thiago-code-lab">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
-  </a>
-</p>
-
-</details>
-
-</div>
-
-</div>
-
-<br/>
 
 <div align="center">
   
