@@ -36,9 +36,6 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Thiago-code-lab">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:analyticsdev.thiago@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
