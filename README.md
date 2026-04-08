@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://thiago-code-lab.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfólio-Ver_Projetos-blue?style=for-the-badge" alt="Portfolio Thiago Cardoso">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-View_Projects-blue?style=for-the-badge" alt="Portfolio Thiago Cardoso">
   </a>
 </div>
 
@@ -12,23 +12,23 @@
 
 ### Thiago Cardoso
 
-Analista de Cloud Jr com foco em **AWS**, **DevSecOps** e **IaC**.  
-Estudante de Big Data na FATEC Ipiranga.
+Junior Cloud Analyst focused on **AWS**, **DevSecOps** and **IaC**.  
+Big Data student at FATEC Ipiranga.
 
-**Experiência**
+**Experience**
 
-**Cloud Jr @ Pixxel** *(2026 - Atual)*  
-Gestão e otimização de infraestrutura em nuvem, implementação de soluções cloud-native e monitoramento de disponibilidade de serviços.
+**Cloud Jr @ Pixxel** *(2026 - Present)*  
+Cloud infrastructure management and optimization, implementation of cloud-native solutions and service availability monitoring.
 
-**Estagiário DevSecOps @ Compass UOL** *(2025)*  
-Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com IaC e implementação de práticas de segurança em nuvem.
+**DevSecOps Intern @ Compass UOL** *(2025)*  
+Development of secure CI/CD pipelines, infrastructure automation with IaC and implementation of cloud security practices.
 
-**Metas 2026**
+**2026 Goals**
 - AWS Certified Data Engineering (DEA-C01)
 - AWS Certified DevOps Engineer – Professional (DOP-C02)
-- Inglês técnico nível C2
-- Aprofundar conhecimentos em observabilidade (Prometheus, Grafana, OpenTelemetry)
-- Contribuir com projetos open source nas áreas de IaC e DevSecOps
+- Technical English C2 level
+- Deepen knowledge in observability (Prometheus, Grafana, OpenTelemetry)
+- Contribute to open source projects in IaC and DevSecOps
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -51,8 +51,13 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 </td>
 </tr>
 </table>
-  
-## Minhas Ferramentas e Tecnologias Favoritas
+
+---
+
+<details>
+<summary><font size="40"> My Favorite Tools and Technologies</font></summary>
+
+<br/>
 
 <table align="center">
   <tr>
@@ -114,19 +119,14 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
       <img src="https://skillicons.dev/icons?i=golang&theme=light" width="65" height="65" alt="Golang" />
       <br><strong>Golang</strong>
     </td>
-<div align="center">
   </tr>
 </table>
 
-<div align="center">
-
-</div>
-
 <br/>
 
-<br/>
+</details>
 
-<div align="center">
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -134,10 +134,12 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 
 <br/>
 
-<div align="center">
-  
-##  Certificações & Qualificações
+<details>
+<summary><font size="40"> Certifications & Qualifications</font></summary>
 
+<br/>
+
+<div align="center">
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
@@ -153,47 +155,32 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 <sub>AWS Certified Solution Architect</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img width="180" height="140" alt="Google Analista de Dados" src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f"/>
+<img width="180" height="140" alt="Google Data Analyst" src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f"/>
 <br/><br/>
 <strong>Google</strong><br/>
-<sub>Analista de dados Profissional</sub>
+<sub>Professional Data Analyst</sub>
 </td>
 <td width="25%" align="center" valign="top">
 <img width="240" height="140" alt="Google Cloud" src="https://github.com/user-attachments/assets/db9e1efb-9ef0-4a23-bb9e-7c0f5ee84f05"/>
 <br/><br/>
 <strong>Google Cloud</strong><br/>
-<sub>Inteligência Artificial</sub>
+<sub>Artificial Intelligence</sub>
 </td>
 </tr>
 </table>
-
 </div>
+
+<br/>
+
+</details>
 
 <br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br/>
-
-<div align="center">
-
-<div align="center">
-  
-  
 </div>
 
 <br/><br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
