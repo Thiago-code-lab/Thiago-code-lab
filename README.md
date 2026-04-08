@@ -30,7 +30,7 @@ Desenvolvimento de pipelines CI/CD seguros, automação de infraestrutura com Ia
 </td>
 <td width="45%" valign="top" align="center">
 
-![Miles Morales](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZseGt0bnc1dGozdmx0aXA2cWljMm5objg2YTBwMndmdGI0amtrZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jAzS2VUgF0yq6UBu7l/giphy.gif)
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/21857086-d3c2-419e-be50-26485490fcc4" />
 
 <p>
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
