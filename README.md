@@ -33,7 +33,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 </td>
 <td width="45%" valign="top" align="center">
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/21857086-d3c2-419e-be50-26485490fcc4" />
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/8a98e314-6bf8-41c5-aaf9-9502585c8e26" />
 
 <p>
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
