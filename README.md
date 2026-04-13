@@ -53,66 +53,66 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <br/>
 
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="65" height="65" alt="AWS" />
-      <br><strong>AWS</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br><strong>Kubernetes</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" width="65" height="65" alt="GitHub" />
-      <br><strong>GitHub</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform&theme=light" width="65" height="65" alt="Terraform" />
-      <br><strong>Terraform</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="65" height="65" alt="Linux" />
-      <br><strong>Linux</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash&theme=light" width="65" height="65" alt="Bash" />
-      <br><strong>Bash</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="65" height="65" alt="GitHub Actions" />
-      <br><strong>Actions</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="65" height="65" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=golang&theme=light" width="65" height="65" alt="Golang" />
-      <br><strong>Golang</strong>
-    </td>
-  </tr>
+  <tr>
+    <td align="center" width="75">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=aws&theme=light" width="60" height="60" alt="AWS" />
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" />
+      <br><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="60" height="60" alt="PostgreSQL" />
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=github&theme=light" width="60" height="60" alt="GitHub" />
+      <br><strong>GitHub</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=terraform&theme=light" width="60" height="60" alt="Terraform" />
+      <br><strong>Terraform</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" width="60" height="60" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=bash&theme=light" width="60" height="60" alt="Bash" />
+      <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="60" height="60" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=light" width="60" height="60" alt="GitHub Actions" />
+      <br><strong>Actions</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="60" height="60" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=golang&theme=light" width="60" height="60" alt="Golang" />
+      <br><strong>Golang</strong>
+    </td>
+  </tr>
 </table>
 
 <br/>
