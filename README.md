@@ -76,7 +76,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <sub>Professional Data Analyst</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img width="240" height="140" alt="Google Cloud" src="https://github.com/user-attachments/assets/db9e1efb-9ef0-4a23-bb9e-7c0f5ee84f05"/>
+<img width="180" height="140" alt="Google Cloud" src="https://github.com/user-attachments/assets/db9e1efb-9ef0-4a23-bb9e-7c0f5ee84f05"/>
 <br/><br/>
 <strong>Google Cloud</strong><br/>
 <sub>Artificial Intelligence</sub>
