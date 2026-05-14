@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner-Thiago.jpg" width="100%" alt="Thiago Cardoso - Cloud Engineer & Data Analytics"/>
+  <img src="Banner-Thiago.jpg" width="80%" alt="Thiago Cardoso - Cloud Engineer & Data Analytics"/>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 ### Cloud Engineer • Founder @ CloudStudy
 
@@ -30,15 +30,13 @@ Cloud infrastructure management and optimization, implementation of cloud-native
 **DevSecOps Intern @ Compass UOL** *(2025)*  
 Development of secure CI/CD pipelines, infrastructure automation with IaC and implementation of cloud security practices.
 
-</td>
-<td width="45%" valign="top" align="center">
+<br/>
 
-<img width="400" height="400" src="https://github.com/user-attachments/assets/0b1d9edf-7b4e-47d4-a946-eb769835df68" />
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:analyticsdev.thiago@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
+
 <img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=FF9900&label=VIEWS" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
