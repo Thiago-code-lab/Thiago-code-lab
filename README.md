@@ -69,9 +69,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
   <strong>Cloud Practitioner</strong><br/>
   <sub>Foundational AWS learning path</sub>
   <br/><br/>
-  <a href="https://www.cloudstudy.com.br/">
-    <img src="https://img.shields.io/badge/Open_Repository-View_Project-FF9900?style=for-the-badge">
-  </a>
+  <img width="140" src="CloudPractitioner (1).png" alt="AWS Certified Cloud Practitioner" />
 </td>
 <td width="33%" align="center">
   <img width="120" src="Solution Architect (1).png" alt="Solutions Architect Badge"/>
@@ -79,9 +77,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
   <strong>Solutions Architect</strong><br/>
   <sub>AWS architecture and cloud patterns</sub>
   <br/><br/>
-  <a href="https://www.cloudstudy.com.br/">
-    <img src="https://img.shields.io/badge/Open_Repository-View_Project-FF9900?style=for-the-badge">
-  </a>
+  <img width="140" src="Solution Architect (1).png" alt="AWS Certified Solutions Architect" />
 </td>
 <td width="33%" align="center">
   <img width="120" src="IaPractitioner (1).png" alt="AI Practitioner Badge"/>
