@@ -26,6 +26,13 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 
 <br/>
 
+</td>
+<td width="42%" valign="top" align="center">
+
+<img width="320" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
+
+<br/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:analyticsdev.thiago@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -34,11 +41,6 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=FF9900&label=VIEWS" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img width="320" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
 
 </td>
 </tr>
