@@ -13,7 +13,6 @@
 
 ### Cloud Engineer • Founder @ CloudStudy
 
-Cloud Engineer com foco em **AWS**, **DevSecOps**, **Infrastructure as Code (IaC)** e automação de infraestrutura cloud.  
 Criador da **CloudStudy**, plataforma brasileira voltada para certificações AWS, laboratórios práticos, projetos reais e trilhas de aprendizado para a comunidade cloud.
 
 <br/>
