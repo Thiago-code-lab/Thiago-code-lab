@@ -64,7 +64,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <table>
 <tr>
 <td width="33%" align="center">
-  <img width="120" src="CloudPractitioner%20(1).png" alt="Cloud Practitioner Badge"/>
+  <img width="120" src="CloudPractitioner (1).png" alt="Cloud Practitioner Badge"/>
   <br/><br/>
   <strong>Cloud Practitioner</strong><br/>
   <sub>Foundational AWS learning path</sub>
@@ -74,7 +74,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
   </a>
 </td>
 <td width="33%" align="center">
-  <img width="120" src="Solution%20Architect%20(1).png" alt="Solutions Architect Badge"/>
+  <img width="120" src="Solution Architect (1).png" alt="Solutions Architect Badge"/>
   <br/><br/>
   <strong>Solutions Architect</strong><br/>
   <sub>AWS architecture and cloud patterns</sub>
@@ -84,7 +84,7 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
   </a>
 </td>
 <td width="33%" align="center">
-  <img width="120" src="IaPractitioner%20(1).png" alt="AI Practitioner Badge"/>
+  <img width="120" src="IaPractitioner (1).png" alt="AI Practitioner Badge"/>
   <br/><br/>
   <strong>AI Practitioner</strong><br/>
   <sub>Generative AI and AWS AI services</sub>
