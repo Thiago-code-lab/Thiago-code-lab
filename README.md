@@ -12,7 +12,7 @@
 
 ### Cloud Engineer • Founder @ CloudStudy
 
-**Building CloudStudy** — a premium open-source AWS learning ecosystem designed for the Brazilian developer community.  
+**Building CloudStudy** — a premium AWS learning platform focused on certification preparation for the Brazilian developer community.  
 Cloud infrastructure architect and infrastructure automation specialist focused on **AWS**, **DevSecOps**, and **Infrastructure as Code**.  
 Big Data student at São Paulo State College of Technology (FATEC).
 
@@ -52,10 +52,10 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 
 <br/>
 
-## ☁️ CloudStudy Ecosystem
+## CloudStudy Platform
 
 <div align="center">
-  <p><strong>Premium open-source AWS learning ecosystem focused on the Brazilian cloud community</strong></p>
+  <p><strong>Premium AWS study platform focused on certification preparation for the Brazilian cloud community</strong></p>
 </div>
 
 <br/>
