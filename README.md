@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="55%" valign="top">
 
 ### Cloud Engineer • Founder @ CloudStudy
 
@@ -40,6 +40,11 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=FF9900&label=VIEWS" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img width="100%" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
 
 </td>
 </tr>
@@ -93,27 +98,6 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📈 Open Source Impact
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **GitHub Reach** | 180+ Stars • 130+ Followers |
-| **Ecosystem** | 3 AWS-focused learning repositories |
-| **Community** | Fast-growing PT-BR open-source AWS community |
-| **Learning Coverage** | Cloud Practitioner, Solutions Architect, AI & Generative AI |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 <br/>
 
