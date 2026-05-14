@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHVWR5dkeBXLQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ4nv3WQI8AU-/0/1778783319783?e=1780531200&v=beta&t=TxZ_q9eNuruS6DHmTSO_ryYDbU1vV0D7_NH4Ia74TTE" width="100%" alt="Thiago Cardoso - Cloud Engineer & Data Analytics"/>
+  <img src="Banner-Thiago.jpg" width="100%" alt="Thiago Cardoso - Cloud Engineer & Data Analytics"/>
 </div>
 
 <br/>
@@ -16,12 +16,13 @@
 <tr>
 <td width="55%" valign="top">
 
-### Thiago Cardoso
+### Cloud Engineer • Founder @ CloudStudy
 
-Junior Cloud Analyst focused on **AWS**, **DevSecOps** and **IaC**.  
+**Building CloudStudy** — a premium open-source AWS learning ecosystem designed for the Brazilian developer community.  
+Cloud infrastructure architect and infrastructure automation specialist focused on **AWS**, **DevSecOps**, and **Infrastructure as Code**.  
 Big Data student at São Paulo State College of Technology (FATEC).
 
-**Experience**
+**Selected Work & Experience**
 
 **Cloud Jr @ Pixxel** *(2026 - Present)*  
 Cloud infrastructure management and optimization, implementation of cloud-native solutions and service availability monitoring.
@@ -45,6 +46,53 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+## ☁️ CloudStudy Ecosystem
+
+<div align="center">
+  <p><strong>Premium open-source AWS learning ecosystem focused on the Brazilian cloud community</strong></p>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+  <img width="120" src="CloudPractitioner%20(1).png" alt="Cloud Practitioner Badge"/>
+  <br/><br/>
+  <strong>Cloud Practitioner</strong><br/>
+  <sub>Foundational AWS learning path</sub>
+  <br/><br/>
+  <a href="https://www.cloudstudy.com.br/">
+    <img src="https://img.shields.io/badge/Open_Repository-View_Project-FF9900?style=for-the-badge">
+  </a>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 Open Source Impact
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **GitHub Reach** | 180+ Stars • 130+ Followers |
+| **Ecosystem** | 3 AWS-focused learning repositories |
+| **Community** | Fast-growing PT-BR open-source AWS community |
+| **Learning Coverage** | Cloud Practitioner, Solutions Architect, AI & Generative AI |
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
