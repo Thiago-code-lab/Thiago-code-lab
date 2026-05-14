@@ -1,6 +1,12 @@
 <div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHVWR5dkeBXLQ/profile-displaybackgroundimage-shrink_350_1400/B4DZ4nv3WQI8AU-/0/1778783319783?e=1780531200&v=beta&t=TxZ_q9eNuruS6DHmTSO_ryYDbU1vV0D7_NH4Ia74TTE" width="100%" alt="Thiago Cardoso - Cloud Engineer & Data Analytics"/>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://thiago-code-lab.github.io/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-View_Projects-FF9900?style=for-the-badge" alt="Portfolio Thiago Cardoso"/>
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF9900?style=for-the-badge" alt="Portfolio Thiago Cardoso"/>
   </a>
 </div>
 
