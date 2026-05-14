@@ -72,6 +72,25 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
   <a href="https://www.cloudstudy.com.br/">
     <img src="https://img.shields.io/badge/Open_Repository-View_Project-FF9900?style=for-the-badge">
   </a>
+</td>
+<td width="33%" align="center">
+  <img width="120" src="Solution%20Architect%20(1).png" alt="Solutions Architect Badge"/>
+  <br/><br/>
+  <strong>Solutions Architect</strong><br/>
+  <sub>AWS architecture and cloud patterns</sub>
+  <br/><br/>
+  <a href="https://www.cloudstudy.com.br/">
+    <img src="https://img.shields.io/badge/Open_Repository-View_Project-FF9900?style=for-the-badge">
+  </a>
+</td>
+<td width="33%" align="center">
+  <img width="120" src="IaPractitioner%20(1).png" alt="AI Practitioner Badge"/>
+  <br/><br/>
+  <strong>AI Practitioner</strong><br/>
+  <sub>Generative AI and AWS AI services</sub>
+  <br/><br/>
+  <a href="https://www.cloudstudy.com.br/">
+    <img src="https://img.shields.io/badge/Open_Repository-View_Project-FF9900?style=for-the-badge">
   </a>
 </td>
 </tr>
