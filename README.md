@@ -8,11 +8,7 @@
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center">
-
-<img width="100%" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
-
-<br/>
+<td width="58%" valign="top">
 
 ### Cloud Engineer • Founder @ CloudStudy
 
@@ -38,6 +34,11 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=FF9900&label=VIEWS" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+
+</td>
+<td width="42%" valign="top" align="center">
+
+<img width="320" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
 
 </td>
 </tr>
