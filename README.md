@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="Banner-Thiago.jpg" width="80%" alt="Thiago Cardoso - Cloud Engineer & Data Analytics"/>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://thiago-code-lab.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF9900?style=for-the-badge" alt="Portfolio Thiago Cardoso"/>
   </a>
@@ -14,7 +8,11 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top" align="center">
+
+<img width="100%" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
+
+<br/>
 
 ### Cloud Engineer • Founder @ CloudStudy
 
@@ -40,11 +38,6 @@ Development of secure CI/CD pipelines, infrastructure automation with IaC and im
 <img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=FF9900&label=VIEWS" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img width="100%" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
 
 </td>
 </tr>
