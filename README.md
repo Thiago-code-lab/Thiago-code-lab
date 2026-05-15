@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://thiago-code-lab.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-FF9900?style=for-the-badge" alt="Portfólio Thiago Cardoso"/>
+    <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-38BDF8?style=for-the-badge" alt="Portfólio Thiago Cardoso"/>
   </a>
 </div>
 
@@ -44,11 +44,11 @@ Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas
   </a>
 
   <a href="https://www.cloudstudy.com.br/">
-    <img src="https://img.shields.io/badge/-CloudStudy-FF9900?style=flat-square" />
+    <img src="https://img.shields.io/badge/-CloudStudy-38BDF8?style=flat-square" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=FF9900&label=VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Thiago-code-lab&style=flat-square&color=38BDF8&label=VIEWS" />
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas
 
 <div align="center">
   <a href="https://www.cloudstudy.com.br/">
-    <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
 </div>
 
@@ -78,7 +78,11 @@ Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas
 
 <br/>
 
+<div align="center">
+
 ## Certificações
+
+</div>
 
 <div align="center">
 
@@ -115,7 +119,7 @@ Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas
 <br/>
 
 <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing">
-  <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-FF9900?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
 </div>
