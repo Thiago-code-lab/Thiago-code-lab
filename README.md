@@ -89,25 +89,31 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 <img width="120" src="https://github.com/user-attachments/assets/5636b0bd-0a8f-48f5-8c9c-f53cdc2c5238" />
 <br/><br/>
 <sub>AWS Cloud Practitioner</sub>
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
+<img width="120" src="./IaPractitioner%20(1).png" />
+<br/><br/>
+<sub>AWS AI Practitioner</sub>
+</td>
+
+<td width="20%" align="center">
 <img width="120" src="https://github.com/user-attachments/assets/718204a4-559b-4a74-af2c-9ae3035794a0" />
 <br/><br/>
 <sub>AWS Solutions Architect</sub>
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 <img width="150" src="https://github.com/user-attachments/assets/505be43a-d2b0-4255-b2f4-fab68a69234f"/>
 <br/><br/>
 <sub>Google Data Analyst</sub>
 </td>
 
-<td width="25%" align="center">
+<td width="20%" align="center">
 <img width="150" src="https://github.com/user-attachments/assets/db9e1efb-9ef0-4a23-bb9e-7c0f5ee84f05"/>
 <br/><br/>
 <sub>Google Cloud AI</sub>
