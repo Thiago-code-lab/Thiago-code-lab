@@ -11,19 +11,19 @@
 
 <td width="55%" valign="top">
 
-### Cloud Engineer • Founder @ CloudStudy
+### Cloud Analyst • Founder @ CloudStudy
 
-Criador da **CloudStudy**, plataforma brasileira voltada para certificações AWS, laboratórios práticos, projetos reais e trilhas de aprendizado para a comunidade cloud.
+Fundador da **CloudStudy**, plataforma brasileira focada em AWS, Cloud Computing, Engenharia de Dados e IA, oferecendo laboratórios práticos, projetos reais e trilhas de aprendizado para profissionais da área.
 
 <br/>
 
-**Cloud Jr @ Pixxel** *(2026 - Atual)*  
-Atuação em infraestrutura AWS, monitoramento de ambientes cloud, automação operacional, otimização de custos e suporte à arquitetura de soluções escaláveis e cloud-native.
+**Cloud Analyst @ Pixxel** *(2026)*  
+Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, automação operacional, otimização de custos (FinOps) e suporte à arquitetura de soluções escaláveis e cloud-native.
 
 <br/>
 
 **DevSecOps Intern @ Compass UOL** *(2025)*  
-Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas DevSecOps, integração de segurança em ambientes cloud e implementação de infraestrutura como código.
+Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação de Infrastructure as Code (IaC), práticas DevSecOps e integração de controles de segurança em ambientes cloud.
 
 <br/>
 </td>
@@ -124,6 +124,24 @@ Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas
 
 </div>
 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<br/>
+
+<div align="center">
+
+## Tech Stack
+
+<br/>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" height="48" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=terraform,python,postgresql,docker,linux,git,githubactions,bash&theme=light" />
+</p>
+
 <br/>
 
 <div align="center">
@@ -139,3 +157,6 @@ Desenvolvimento de pipelines CI/CD seguras, automação com Terraform, práticas
     srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+
+
