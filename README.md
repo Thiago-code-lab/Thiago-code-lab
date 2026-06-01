@@ -11,7 +11,7 @@
 
 <td width="55%" valign="top">
 
-### Cloud Analyst • Founder @ CloudStudy
+### Data Engineer & Cloud Architect • Founder @ CloudStudy
 
 Fundador da **CloudStudy**, plataforma brasileira focada em AWS, Cloud Computing, Engenharia de Dados e IA, oferecendo laboratórios práticos, projetos reais e trilhas de aprendizado para profissionais da área.
 
