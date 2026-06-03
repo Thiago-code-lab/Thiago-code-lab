@@ -140,14 +140,18 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <div align="center">
 
 ## Tech Stack
-
 <br/>
-
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" height="48" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=terraform,python,postgresql,docker,linux,git,githubactions,bash&theme=light" />
+  <!-- Cloud & IaC -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,s3,glue,athena,cloudwatch" height="48" alt="AWS, S3, Glue, Athena, CloudWatch" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=light" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,bash&theme=light" />
+  <!-- Data & Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=light" />
+  <!-- Containers & DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions&theme=light" />
 </p>
-
 <br/>
 
 <div align="center">
