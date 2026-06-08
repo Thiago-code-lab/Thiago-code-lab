@@ -29,6 +29,8 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 </td>
 
 <td width="45%" valign="top" align="center">
+  
+<img width="320" src="Banner-Thiago.jpg" alt="Thiago Cardoso - Cloud Engineer & Data Analytics" />
 
 <br/>
 
