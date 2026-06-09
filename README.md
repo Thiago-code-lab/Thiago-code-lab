@@ -42,6 +42,10 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
+  <a href="https://www.instagram.com/cloudstudy.ai/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+
   <a href="https://www.cloudstudy.com.br/">
     <img src="https://img.shields.io/badge/-CloudStudy-38BDF8?style=flat-square" />
   </a>
@@ -66,6 +70,14 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <div align="center">
   <a href="https://www.cloudstudy.com.br/">
     <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/cloudstudy-ai/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CloudStudy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/cloudstudy.ai/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-cloudstudy.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
