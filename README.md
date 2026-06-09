@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://thiago-code-lab.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-38BDF8?style=for-the-badge" alt="Portfólio Thiago Cardoso"/>
+<img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-7C3AED?style=for-the-badge" alt="Portfólio Thiago Cardoso"/>
   </a>
 </div>
 
@@ -47,7 +47,7 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
   </a>
 
   <a href="https://www.cloudstudy.com.br/">
-    <img src="https://img.shields.io/badge/-CloudStudy-38BDF8?style=flat-square" />
+    <img src="https://img.shields.io/badge/-CloudStudy-7C3AED?style=flat-square" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 
 <div align="center">
   <a href="https://www.cloudstudy.com.br/">
-    <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-38BDF8?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/ACESSAR_CLOUDSTUDY-www.cloudstudy.com.br-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/company/cloudstudy-ai/">
@@ -136,7 +136,7 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <br/>
 
 <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing">
-  <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
 </div>
