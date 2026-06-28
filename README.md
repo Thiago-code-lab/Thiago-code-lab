@@ -180,4 +180,6 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 </picture>
 
 
+<a href="mailto:analyticsdev.thiago@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-analyticsdev.thiago@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
+</div>
