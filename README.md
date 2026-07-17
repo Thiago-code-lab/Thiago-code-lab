@@ -1,14 +1,19 @@
 <div align="center">
+  <a href="https://www.udemy.com/course/draft/7255665/?referralCode=E28670B9116BA68E08A9">
+    <img
+      src="https://img.shields.io/badge/Curso%20na%20Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"
+      alt="Curso na Udemy"
+      width="200"
+    />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://thiago-code-lab.github.io/">
 <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-7C3AED?style=for-the-badge" alt="Portfólio Thiago Cardoso"/>
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.udemy.com/course/draft/7255665/?referralCode=E28670B9116BA68E08A9">
-    <img src="https://img.shields.io/badge/Curso%20na%20Udemy-A435F0?style=flat&logo=udemy&logoColor=white" alt="Curso na Udemy" />
-  </a>
-</div>
 
 <br/>
 
