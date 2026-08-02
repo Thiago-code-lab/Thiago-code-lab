@@ -16,7 +16,7 @@
 
 <td width="55%" valign="top">
 
-### Engenheiro de Dados e Arquiteto de Cloud - Fundador da @ CloudStudy
+### Arquiteto de Cloud - Fundador da @ CloudStudy
 
 Fundador da **CloudStudy**, plataforma brasileira focada em AWS, Cloud Computing, Engenharia de Dados e IA, oferecendo laboratórios práticos, projetos reais e trilhas de aprendizado para profissionais da área.
 
