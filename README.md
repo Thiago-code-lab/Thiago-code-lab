@@ -160,36 +160,3 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <br/>
 
 <div align="center">
-
-## Tech Stack
-<br/>
-<p align="center">
-  <!-- Cloud & IaC -->
-  <img src="https://skillicons.dev/icons?i=terraform&theme=light" />
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,bash&theme=light" />
-  <!-- Data & Databases -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=light" />
-  <!-- Containers & DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions&theme=light" />
-</p>
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Thiago-code-lab/Thiago-code-lab/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-
-<a href="mailto:analyticsdev.thiago@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-analyticsdev.thiago@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
-</div>
