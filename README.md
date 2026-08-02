@@ -8,12 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://thiago-code-lab.github.io/">
-<img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-7C3AED?style=for-the-badge" alt="Portfólio Thiago Cardoso"/>
-  </a>
-</div>
-
 
 <br/>
 
@@ -150,11 +144,6 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
   <img src="https://img.shields.io/badge/VER_CERTIFICAÇÕES-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <br/>
