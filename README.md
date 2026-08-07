@@ -8,6 +8,12 @@
   </a>
 </div>
 
+<div align="center">
+
+[![Visualizar Currículo](https://img.shields.io/badge/Visualizar%20Curr%C3%ADculo-232F3E?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1sfLbL81QUA-qWSPFeVGy2qtXJPs5rnfk/view?usp=sharing)
+
+</div>
+
 
 <br/>
 
@@ -146,3 +152,9 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 <br/>
 
 <div align="center">
+
+<div align="center">
+
+[![Visualizar Currículo](https://img.shields.io/badge/Visualizar%20Curr%C3%ADculo-232F3E?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1sfLbL81QUA-qWSPFeVGy2qtXJPs5rnfk/view?usp=sharing)
+
+</div>
