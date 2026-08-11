@@ -66,7 +66,8 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Thiago-code-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&include_all_commits=true&count_private=true&hide_title=true" />
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </td>
 </tr>
