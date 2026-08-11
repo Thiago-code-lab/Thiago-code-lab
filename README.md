@@ -66,9 +66,11 @@ Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação d
 
 <br/><br/>
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/stats.svg" width="380" />
+  <br><br>
 
+</p>
 </td>
 </tr>
 </table>
