@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?couponCode=NOVATURMA">
+  <a href="https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?couponCode=ENGENHARIA">
     <img
       src="https://img.shields.io/badge/Curso%20na%20Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"
       alt="Curso na Udemy"
