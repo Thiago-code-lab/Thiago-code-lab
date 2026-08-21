@@ -22,19 +22,19 @@
 
 <td width="55%" valign="top">
 
-### Arquiteto de Cloud - Fundador da @ CloudStudy
+### Engenheiro de Dados & Cloud - Fundador da @ CloudStudy
 
-Fundador da **CloudStudy**, plataforma brasileira focada em AWS, Cloud Computing, Engenharia de Dados e IA, oferecendo laboratórios práticos, projetos reais e trilhas de aprendizado para profissionais da área.
+Atuo com **Engenharia de Dados, Cloud Computing e DevOps**, com foco em AWS, Python, SQL, Terraform, automação e construção de pipelines. Fundador da **CloudStudy**, projeto independente criado a partir de repositórios open source para organizar o estudo de certificações AWS em português, reunindo trilhas, laboratórios, flashcards, simulados e uma plataforma educacional em construção.
 
 <br/>
 
-**Analista de Cloud @ Pixxel** *(2026)*  
-Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, automação operacional, otimização de custos (FinOps) e suporte à arquitetura de soluções escaláveis e cloud-native.
+**Analista de Cloud Jr. @ Pixxel** *(2026)*  
+Atuação em ambientes AWS com foco em infraestrutura cloud, observabilidade, automação operacional, FinOps, governança e suporte à arquitetura de soluções escaláveis.
 
 <br/>
 
 **Estagiário DevSecOps @ Compass UOL** *(2025)*  
-Desenvolvimento de pipelines CI/CD, automação com Terraform, implementação de Infrastructure as Code (IaC), práticas DevSecOps e integração de controles de segurança em ambientes cloud.
+Participação no programa AWS Scholar, com prática em DevSecOps, automação com Terraform, pipelines CI/CD, Infrastructure as Code e integração de controles de segurança em ambientes cloud.
 
 <br/>
 </td>
