@@ -17,7 +17,7 @@
     />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1sfLbL81QUA-qWSPFeVGy2qtXJPs5rnfk/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1IfoLRrgB4bSOhq3zUpXZLlExZD7tA4zd/view?usp=sharing">
     <img
       src="https://img.shields.io/badge/Visualizar%20Curr%C3%ADculo-232F3E?style=for-the-badge&logo=readme&logoColor=white"
       alt="Visualizar Currículo"
