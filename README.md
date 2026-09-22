@@ -1,15 +1,13 @@
 <div align="center">
 
-<h1>Thiago Cardoso</h1>
-
-<h3>Engenheiro de Dados &amp; Cloud</h3>
+<h1>Oi, eu sou o Thiago</h1>
 
 <p>
-  Construo pipelines de dados, automações e infraestrutura em nuvem com<br />
-  <strong>AWS · Python · SQL · Terraform · DevOps</strong>
+  <strong>Dados, cloud e automação sem complicação.</strong><br />
+  AWS · Python · SQL · Terraform · DevOps
 </p>
 
-<img width="480" src="./Banner-Thiago.jpg" alt="Thiago Cardoso e CloudStudy" />
+<img width="440" src="./Banner-Thiago.jpg" alt="Thiago Cardoso e CloudStudy" />
 
 <p>
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso">
@@ -25,26 +23,26 @@
 
 </div>
 
-## Sobre
+## Um pouco sobre mim
 
-Atuo com **Engenharia de Dados, Cloud Computing e DevOps**, construindo pipelines, automações e infraestrutura como código em ambientes AWS. Também sou fundador da **CloudStudy**, iniciativa open source para o estudo de certificações AWS em português.
+- Trabalho com **Engenharia de Dados, Cloud e DevOps** em ambientes AWS.
+- Gosto de transformar tarefas repetitivas em automações e infraestrutura como código.
+- Criei a **CloudStudy** para ajudar mais pessoas a estudar AWS em português.
 
-## Experiência
+## Minha jornada
 
-| Período | Atuação |
-| :--- | :--- |
-| **2026** | **Analista de Cloud Jr. · Pixxel**<br>AWS, observabilidade, automação, FinOps e governança. |
-| **2025** | **Estagiário DevSecOps · Compass UOL**<br>AWS Scholar, Terraform, CI/CD, IaC e segurança cloud. |
+- **Analista de Cloud Jr. · Pixxel** `2026`<br />
+  AWS, observabilidade, automação, FinOps e governança.
+- **Estagiário DevSecOps · Compass UOL** `2025`<br />
+  AWS Scholar, Terraform, CI/CD, IaC e segurança cloud.
 
 ## CloudStudy
 
-Plataforma educacional para tornar o aprendizado de AWS mais organizado, prático e acessível para a comunidade brasileira.
+Um projeto feito para deixar o aprendizado de AWS mais organizado, prático e acessível.
 
-| Explore o projeto | Aprenda e participe |
-| :--- | :--- |
-| [Plataforma CloudStudy](https://www.cloudstudy.com.br/) | [Curso de Engenharia de Dados na AWS](https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9) |
-| [CloudStudy no LinkedIn](https://www.linkedin.com/company/cloudstudy-ai/) | [Comunidade no WhatsApp](https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La?mode=gi_t) |
-| [CloudStudy no Instagram](https://www.instagram.com/cloudstudy.ai/) | Trilhas, laboratórios, flashcards e simulados |
+**Quer estudar AWS comigo?** [Conheça a plataforma](https://www.cloudstudy.com.br/) · [Veja o curso](https://www.udemy.com/course/engenharia-de-dados-na-aws-do-zero-aos-projetos-reais/?referralCode=E28670B9116BA68E08A9) · [Entre na comunidade](https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La?mode=gi_t)
+
+Encontre todos os canais no [Linktree da CloudStudy](https://linktr.ee/cloudstudy) ou acompanhe o projeto no [LinkedIn](https://www.linkedin.com/company/cloudstudy-ai/) e no [Instagram](https://www.instagram.com/cloudstudy.ai/).
 
 ## Certificações
 
