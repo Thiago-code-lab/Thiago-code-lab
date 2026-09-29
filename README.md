@@ -24,10 +24,14 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
 
 ---
 
+
 ### Me encontre por aí
 
-[LinkedIn](https://www.linkedin.com/in/analyticsthiagocardoso/) • [Portfólio](https://thiago-code-lab.github.io/) • [CloudStudy](https://www.cloudstudy.com.br/) • [Instagram](https://www.instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyticsthiagocardoso/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://thiago-code-lab.github.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
 ### Credenciais
 
-[Credly — Badges verificadas](https://www.credly.com/users/thiago-cardoso-davi) • [Google Drive — Todas as certificações](https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thiago-cardoso-davi)
+[![Certificações](https://img.shields.io/badge/Certificações-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing)
