@@ -24,14 +24,22 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
 
 ---
 
-
 ### Me encontre por aí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analyticsthiagocardoso/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://thiago-code-lab.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-
-### Credenciais
-
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thiago-cardoso-davi)
-[![Certificações](https://img.shields.io/badge/Certificações-00BFFF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing)
+<p align="left">
+  <a href="https://www.linkedin.com/in/analyticsthiagocardoso/">
+    <img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://thiago-code-lab.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.credly.com/users/thiago-cardoso-davi">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing">
+    <img src="https://img.shields.io/badge/Certificações-00E5FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificações"/>
+  </a>
+</p>
