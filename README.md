@@ -13,13 +13,13 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
 ### Certificações
 
 <p align="left">
-  <img src="./Solution Architect (1).png" height="95" alt="AWS Solutions Architect Associate"/>
-  <img src="./CloudPractitioner (1).png" height="95" alt="AWS Cloud Practitioner"/>
-  <img src="./IaPractitioner (1).png" height="95" alt="AWS AI Practitioner"/>
-  <img src="https://github.com/user-attachments/assets/0048a841-9666-4e54-8b85-3c13e07bf2d0" height="95" alt="Google Data Analytics"/>
-  <img src="https://github.com/user-attachments/assets/7be12a9b-55b0-4880-8107-91e9f75b2253" height="95" alt="Google Certification"/>
-  <img src="https://github.com/user-attachments/assets/6757613c-18b7-4202-9c81-3d24fa9a44de" height="95" alt="Cisco Cyber Threat Management"/>
-  <img src="https://github.com/user-attachments/assets/2c06e9eb-2be5-47b4-8a97-022a74a3ba3d" height="95" alt="Cisco Network Technician"/>
+  <img src="./Solution Architect (1).png" height="105" alt="AWS Solutions Architect Associate"/>
+  <img src="./CloudPractitioner (1).png" height="105" alt="AWS Cloud Practitioner"/>
+  <img src="./IaPractitioner (1).png" height="105" alt="AWS AI Practitioner"/>
+  <img src="https://github.com/user-attachments/assets/0048a841-9666-4e54-8b85-3c13e07bf2d0" height="115" alt="Google Data Analytics"/>
+  <img src="https://github.com/user-attachments/assets/7be12a9b-55b0-4880-8107-91e9f75b2253" height="115" alt="Google Certification"/>
+  <img src="https://github.com/user-attachments/assets/6757613c-18b7-4202-9c81-3d24fa9a44de" height="115" alt="Cisco Cyber Threat Management"/>
+  <img src="https://github.com/user-attachments/assets/2c06e9eb-2be5-47b4-8a97-022a74a3ba3d" height="115" alt="Cisco Network Technician"/>
 </p>
 
 ---
