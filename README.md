@@ -1,3 +1,5 @@
+<div align="center">
+
 # Falaaaa, eu sou o Thiago!
 
 Cloud Engineer, AWS Certified e Founder da [**CloudStudy**](https://www.cloudstudy.com.br/).
@@ -12,7 +14,7 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
 
 ### Certificações
 
-<p align="left">
+<p align="center">
   <img src="./Solution Architect (1).png" height="105" alt="AWS Solutions Architect Associate"/>
   <img src="./CloudPractitioner (1).png" height="105" alt="AWS Cloud Practitioner"/>
   <img src="./IaPractitioner (1).png" height="105" alt="AWS AI Practitioner"/>
@@ -24,9 +26,9 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
 
 ---
 
-### Me encontre por aí
-
-<p align="left">
+<div align="center">
+Me encontre por aí
+<p>
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso/">
     <img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -43,3 +45,4 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
     <img src="https://img.shields.io/badge/Certificações-00E5FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificações"/>
   </a>
 </p>
+</div>
