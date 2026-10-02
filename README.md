@@ -44,5 +44,8 @@ Me encontre por aí
   <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing">
     <img src="https://img.shields.io/badge/Certificações-00E5FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificações"/>
   </a>
+  <a href="https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La">
+  <img src="https://img.shields.io/badge/Grupo%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo WhatsApp"/>
+</a>
 </p>
 </div>
