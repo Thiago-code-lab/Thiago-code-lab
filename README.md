@@ -4,11 +4,34 @@
 
 Cloud Engineer, AWS Certified e Founder da [**CloudStudy**](https://www.cloudstudy.com.br/).
 
+> **Aberto a novas oportunidades como Cloud Engineer / DevOps**
+
 ### 20 anos. 3x AWS Certified • 2x Google Certified • 2x Cisco Certified • +2.200 ⭐ construindo um dos maiores ecossistemas open source de AWS em português • Founder da [CloudStudy](https://www.cloudstudy.com.br/).
 
 ### Tecnologias
 
 AWS • Terraform • Docker • Python • Linux • GitHub Actions • PostgreSQL
+
+---
+
+<details>
+<summary><b>🇺🇸 English Version</b></summary>
+
+<br>
+
+# Hey there, I'm Thiago!
+
+Cloud Engineer, AWS Certified & Founder of [**CloudStudy**](https://www.cloudstudy.com.br/).
+
+> **Open to new opportunities as a Cloud Engineer / DevOps**
+
+### 20 years old. 3x AWS Certified • 2x Google Certified • 2x Cisco Certified • +2.200 ⭐ building one of the largest open-source AWS ecosystems in Portuguese • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
+
+### Technologies
+
+AWS • Terraform • Docker • Python • Linux • GitHub Actions • PostgreSQL
+
+</details>
 
 ---
 
