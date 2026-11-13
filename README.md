@@ -1,6 +1,6 @@
 <div align="center">
 
-# Falaaaa, eu sou o Thiago!
+# Bem vindo(a), eu sou o Thiago!
 
 Cloud Engineer, AWS Certified e Founder da [**CloudStudy**](https://www.cloudstudy.com.br/).
 
