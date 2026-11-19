@@ -1,41 +1,24 @@
 <div align="center">
 
-# Bem vindo(a), eu sou o Thiago!
-
-Cloud Engineer, AWS Certified e Founder da [**CloudStudy**](https://www.cloudstudy.com.br/).
-
-> **Aberto a novas oportunidades como Cloud Engineer / DevOps**
-
-### 20 anos. 3x AWS Certified • 2x Google Certified • 2x Cisco Certified • +2.200 ⭐ construindo um dos maiores ecossistemas open source de AWS em português • Founder da [CloudStudy](https://www.cloudstudy.com.br/).
-
-### Tecnologias
-
-AWS • Terraform • Docker • Python • Linux • GitHub Actions • PostgreSQL
-
----
-
-<details>
-<summary><b>🇺🇸 English Version</b></summary>
-
-<br>
-
-# Hey there, I'm Thiago!
+# Hey there, I'm Thiago! 👋
 
 Cloud Engineer, AWS Certified & Founder of [**CloudStudy**](https://www.cloudstudy.com.br/).
 
+<a href="https://apps.apple.com/br/app/cloudstudy/id6833570271">
+  <img src="https://img.shields.io/badge/CloudStudy-App%20Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="CloudStudy App"/>
+</a>
+
 > **Open to new opportunities as a Cloud Engineer / DevOps**
 
-### 20 years old. 3x AWS Certified • 2x Google Certified • 2x Cisco Certified • +2.200 ⭐ building one of the largest open-source AWS ecosystems in Portuguese • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
+### 3x AWS Certified • 2x Google Certified • 2x Cisco Certified • +2,400 ⭐ across AWS certification repositories • Building one of the most starred AWS learning ecosystems in Brazil • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
 
 ### Technologies
 
 AWS • Terraform • Docker • Python • Linux • GitHub Actions • PostgreSQL
 
-</details>
-
 ---
 
-### Certificações
+### Certifications
 
 <p align="center">
   <img src="./Solution Architect (1).png" height="105" alt="AWS Solutions Architect Associate"/>
@@ -50,25 +33,28 @@ AWS • Terraform • Docker • Python • Linux • GitHub Actions • Postgre
 ---
 
 <div align="center">
-Me encontre por aí
+Find me around the web
+
 <p>
+  <a href="https://apps.apple.com/br/app/cloudstudy/id6833570271">
+    <img src="https://img.shields.io/badge/CloudStudy-App%20Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="CloudStudy"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/analyticsthiagocardoso/">
     <img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://thiago-code-lab.github.io/">
     <img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
   </a>
+
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
   <a href="https://www.credly.com/users/thiago-cardoso-davi">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="https://drive.google.com/drive/folders/1golySmWUI-0wjs3a5n0YqXnJ0bXzcupc?usp=sharing">
-    <img src="https://img.shields.io/badge/Certificações-00E5FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificações"/>
-  </a>
-  <a href="https://chat.whatsapp.com/Lsuexbkt1oELAGX8nCH2La">
-  <img src="https://img.shields.io/badge/Grupo%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Grupo WhatsApp"/>
-</a>
+
 </p>
 </div>
