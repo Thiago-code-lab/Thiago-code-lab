@@ -2,7 +2,8 @@
 
 # Hey there, I'm Thiago! 👋
 
-Cloud Engineer, AWS Certified & Founder of [**CloudStudy**](https://www.cloudstudy.com.br/).
+Cloud Engineer — I build and run production systems on AWS.
+
 
 <a href="https://apps.apple.com/br/app/cloudstudy/id6833570271">
   <img src="https://img.shields.io/badge/CloudStudy-App%20Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="CloudStudy App"/>
@@ -10,7 +11,7 @@ Cloud Engineer, AWS Certified & Founder of [**CloudStudy**](https://www.cloudstu
 
 > **Open to new opportunities as a Cloud Engineer / DevOps**
 
-### 3x AWS Certified • 2x Google Certified • 2x Cisco Certified • +2,400 ⭐ across AWS certification repositories • Building one of the most starred AWS learning ecosystems in Brazil • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
+### 3x AWS Certified (SAA-C03 · CLF-C02 · AIF-C01) · 2,600+ ⭐ across AWS open-source repos • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
 
 ### Technologies
 
