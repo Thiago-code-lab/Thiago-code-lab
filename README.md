@@ -11,7 +11,7 @@ Cloud Engineer — I build and run production systems on AWS.
 
 > **Open to new opportunities as a Cloud Engineer / DevOps**
 
-### 3x AWS Certified (SAA-C03 · CLF-C02 · AIF-C01) · 2,600+ ⭐ across AWS open-source repos • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
+### 3x AWS Certified (SAA-C03 · CLF-C02 · AIF-C01) · 2,700+ ⭐ across AWS open-source repos • Founder of [CloudStudy](https://www.cloudstudy.com.br/).
 
 ### Technologies
 
